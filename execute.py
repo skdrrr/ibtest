@@ -35,6 +35,12 @@ def intersection(lst1, lst2):
     lst3 = [value for value in lst1 if value in lst2] 
     return lst3 
 
+#inut file
+target_position = pd.read_pickle("dailyorders.pickle")
+target_position.index = pd.to_datetime(target_position.index)
+target_position = target_position[target_position.index==target_position.index[-1]]
+
+
 ##insert the location of the exchange.
 ExchangeData = pd.read_csv("exchange.csv")
 ExchangeData.index= ExchangeData["Stock"]
@@ -75,9 +81,6 @@ excluse = {"UTX","RTN","S","ZAYO","GDI","SBGL","INXN","CY","MSG","LK"}
 ####
 
 # My file destination.
-target_position = pd.read_pickle("ordine.pickle")
-target_position.index = pd.to_datetime(target_position.index)
-target_position = target_position[target_position.index==target_position.index[-1]]
 
 #Currently not used
 ##existing_stocks = set(CurrentPortfolio["symbol"]).intersection(set(target_position))
