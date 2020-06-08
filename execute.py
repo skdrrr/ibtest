@@ -19,11 +19,17 @@ import ib_insync
 print(ib_insync.__all__)
 
 from ib_insync import *
-util.startLoop()
+#Andy - not using Jupyter
+#util.startLoop()
+
+#Andy- this is the default account, setting so that orders can be allocated to it.
+acc_num = ''
 
 #Connect to IB Gateway
 ib = IB()
-ib.connect('127.0.0.1', 4000, clientId=1,timeout=100)
+ib.connect('127.0.0.1', 7497, clientId=3,timeout=100)
+
+
 
 def format_days(x):
     if len(x)<2:
@@ -36,7 +42,9 @@ def intersection(lst1, lst2):
     return lst3 
 
 #inut file
-target_position = pd.read_pickle("dailyorders.pickle")
+#Andy - No dailyorders.pickle yet. Testing with a csv from GitHub.
+#target_position = pd.read_pickle("dailyorders.pickle")
+target_position = pd.read_csv("2020_6_5.csv",index_col='Date')
 target_position.index = pd.to_datetime(target_position.index)
 target_position = target_position[target_position.index==target_position.index[-1]]
 
@@ -44,31 +52,27 @@ target_position = target_position[target_position.index==target_position.index[-
 ##insert the location of the exchange.
 ExchangeData = pd.read_csv("exchange.csv")
 ExchangeData.index= ExchangeData["Stock"]
-ExchangeData.loc["AAPL"]["primaryExchange"]=="NASDAQ"
+#Andy - this seems to be a test line
+#ExchangeData.loc["AAPL"]["primaryExchange"]=="NASDAQ"
 StrategyDay = str(target_position.index[0].year)+"-"+format_days(str(target_position.index[0].month))+"-"+format_days(str(target_position.index[0].day))
 
 
 #Construct CurrentPortfolio
+#Andy - this portfolio() only works for the default account, and I can't yet find how to set this.
 CurrentPortfolio = pd.DataFrame()
-for element in ib.portfolio():
+for element in ib.positions():
     symbol = str(element).split("symbol='")[1].split("'")[0]
-#     primaryExchange = str(element).split("primaryExchange='")[1].split("'")[0]
     position =str(element).split("position=")[1].split(",")[0]
-    unrealizedPNL = str(element).split("unrealizedPNL=")[1].split(",")[0]
-    realizedPNL = str(element).split("realizedPNL=")[1].split(",")[0]
-    marketValue = str(element).split("marketValue=")[1].split(",")[0]
-    list_row = {"symbol":symbol, "position":position,"unrealizedPNL":unrealizedPNL,"realizedPNL":realizedPNL,"marketValue":marketValue}
+    list_row = {"symbol":symbol, "position":position}
     
     CurrentPortfolio = CurrentPortfolio.append(list_row, ignore_index=True)
+
 
 for company in target_position.columns:
     if company not in CurrentPortfolio:
         symbol = company
         position = 0
-        unrealizedPNL = 0 
-        realizedPNL = 0
-        marketValue = 0
-        list_row = {"symbol":symbol, "position":position,"unrealizedPNL":unrealizedPNL,"realizedPNL":realizedPNL,"marketValue":marketValue}
+        list_row = {"symbol":symbol, "position":position}
         
         CurrentPortfolio = CurrentPortfolio.append(list_row, ignore_index=True)
 
@@ -89,13 +93,19 @@ excluse = {"UTX","RTN","S","ZAYO","GDI","SBGL","INXN","CY","MSG","LK"}
 
 ###Execution
 for element in target_position.columns:
+    print(element)
     amount_portfolio = CurrentPortfolio[CurrentPortfolio.index==element]["position"] 
     new_amount_portfolio = target_position[target_position.index==StrategyDay][element]
 
     
     # ROUNDING
-    amount_portfolio = int(round(amount_portfolio))
-    new_amount_portfolio = int(round(new_amount_portfolio))
+    #Andy - added try to handle NaN amount
+    try:
+        amount_portfolio = int(round(amount_portfolio))
+        new_amount_portfolio = int(round(new_amount_portfolio))
+    except:
+        print(element)
+        continue
     
     # Buy / Sell / Hold
     if new_amount_portfolio>amount_portfolio:
@@ -109,12 +119,14 @@ for element in target_position.columns:
         trade_amount = 0
     
     if direction!="HOLD":
-        if(stock not in excluse):
+        #Andy - changed to element as no stock variable set
+        if(element not in excluse):
             try:
                 contract = Stock(element, 'SMART', 'USD', primaryExchange=ExchangeData.loc[element]["primaryExchange"])
-                order = MarketOrder(direction, trade_amount)
+                order = MarketOrder(direction, trade_amount,account=acc_num)
     #             trade = ib.placeOrder(contract, order)
-#                 print(contract)
-#                 print(order)
+                ib.sleep(0.2)
+                print(contract)
+                print(order)
             except:
-#                 print(element)
+                print(element)
