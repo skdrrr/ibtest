@@ -1,0 +1,2 @@
+Alphas = stock positions.
+Booksize = 1x1
