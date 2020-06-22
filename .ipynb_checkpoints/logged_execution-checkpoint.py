@@ -16,11 +16,11 @@ from ib_insync import *
 util.startLoop()
 
 #Andy- this is the default account, setting so that orders can be allocated to it.
-acc_num = 'DU2280941'
+acc_num = 'DU1870227'
 
 #Connect to IB Gateway
 ib = IB()
-ib.connect('127.0.0.1', 7497, clientId=10,timeout=100)
+ib.connect('127.0.0.1', 7497, clientId=3,timeout=100)
 
 #subprograms
 def format_days(x):
@@ -62,7 +62,7 @@ PreviousPortfolio = PreviousPortfolio[0:1]
 ## /Build CurrentPortfolio
 
 #TargetPortfolio
-target_position = pd.read_csv("/home/sevder/ibtest/Alphas/Alpha7/2020_6_22.csv",index_col='Date')
+target_position = pd.read_csv("/home/sevder/ibtest/Alphas/Alpha3/2020_6_13.csv",index_col='Date')
 target_position.index = pd.to_datetime(target_position.index)
 target_position = target_position[target_position.index==target_position.index[-1]]
 target_position = target_position.round(decimals=0)

@@ -1,0 +1,803 @@
+,contract,direction,order,symbol
+0,"Stock(symbol='A', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=8, clientId=10, permId=666915708, action='BUY', account='DU2280941')",A
+1,"Stock(symbol='AAL', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=9, clientId=10, permId=666915713, action='BUY', account='DU2280941')",AAL
+2,"Stock(symbol='AAP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=10, clientId=10, permId=666915709, action='BUY', account='DU2280941')",AAP
+3,"Stock(symbol='ABBV', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=11, clientId=10, permId=666915710, action='SELL', account='DU2280941')",ABBV
+4,"Stock(symbol='ABC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=12, clientId=10, permId=666915711, action='BUY', account='DU2280941')",ABC
+5,"Stock(symbol='ABEV', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=13, clientId=10, permId=666915712, action='BUY', account='DU2280941')",ABEV
+6,"Stock(symbol='ABMD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=14, clientId=10, permId=666915725, action='BUY', account='DU2280941')",ABMD
+7,"Stock(symbol='ACAD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=15, clientId=10, permId=666915726, action='SELL', account='DU2280941')",ACAD
+8,"Stock(symbol='ACC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=16, clientId=10, permId=666915714, action='BUY', account='DU2280941')",ACC
+9,"Stock(symbol='ACGL', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=17, clientId=10, permId=666915728, action='BUY', account='DU2280941')",ACGL
+10,"Stock(symbol='ACGLP', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=18, clientId=10, permId=666915727, action='BUY', account='DU2280941')",ACGLP
+11,"Stock(symbol='ACH', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=19, clientId=10, permId=666915715, action='SELL', account='DU2280941')",ACH
+12,"Stock(symbol='ACM', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=20, clientId=10, permId=666915716, action='SELL', account='DU2280941')",ACM
+13,"Stock(symbol='ADI', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=21, clientId=10, permId=666915735, action='BUY', account='DU2280941')",ADI
+14,"Stock(symbol='ADM', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=22, clientId=10, permId=666915717, action='SELL', account='DU2280941')",ADM
+15,"Stock(symbol='AEG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=23, clientId=10, permId=666915718, action='BUY', account='DU2280941')",AEG
+16,"Stock(symbol='AEM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=24, clientId=10, permId=666915719, action='BUY', account='DU2280941')",AEM
+17,"Stock(symbol='AEP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=25, clientId=10, permId=666915720, action='BUY', account='DU2280941')",AEP
+18,"Stock(symbol='AER', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=26, clientId=10, permId=666915721, action='SELL', account='DU2280941')",AER
+19,"Stock(symbol='AES', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=27, clientId=10, permId=666915722, action='BUY', account='DU2280941')",AES
+20,"Stock(symbol='AFG', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=28, clientId=10, permId=666915723, action='SELL', account='DU2280941')",AFG
+21,"Stock(symbol='AFL', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=29, clientId=10, permId=666915724, action='SELL', account='DU2280941')",AFL
+22,"Stock(symbol='AGNC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=30, clientId=10, permId=666915742, action='BUY', account='DU2280941')",AGNC
+23,"Stock(symbol='AGNCM', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=31, clientId=10, permId=666915747, action='BUY', account='DU2280941')",AGNCM
+24,"Stock(symbol='AGNCN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=32, clientId=10, permId=666915754, action='BUY', account='DU2280941')",AGNCN
+25,"Stock(symbol='AGR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=33, clientId=10, permId=666915729, action='BUY', account='DU2280941')",AGR
+26,"Stock(symbol='AIG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=34, clientId=10, permId=666915730, action='BUY', account='DU2280941')",AIG
+27,"Stock(symbol='AIV', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=35, clientId=10, permId=666915731, action='SELL', account='DU2280941')",AIV
+28,"Stock(symbol='AIZ', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=36, clientId=10, permId=666915732, action='BUY', account='DU2280941')",AIZ
+29,"Stock(symbol='AJG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=37, clientId=10, permId=666915733, action='BUY', account='DU2280941')",AJG
+30,"Stock(symbol='AKAM', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=38, clientId=10, permId=666915767, action='BUY', account='DU2280941')",AKAM
+31,"Stock(symbol='ALB', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=39, clientId=10, permId=666915734, action='BUY', account='DU2280941')",ALB
+32,"Stock(symbol='ALC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=40, clientId=10, permId=666915736, action='BUY', account='DU2280941')",ALC
+33,"Stock(symbol='ALGN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=41, clientId=10, permId=666915770, action='SELL', account='DU2280941')",ALGN
+34,"Stock(symbol='ALK', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=42, clientId=10, permId=666915737, action='SELL', account='DU2280941')",ALK
+35,"Stock(symbol='ALL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=43, clientId=10, permId=666915738, action='BUY', account='DU2280941')",ALL
+36,"Stock(symbol='ALLY', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=44, clientId=10, permId=666915739, action='BUY', account='DU2280941')",ALLY
+37,"Stock(symbol='ALNY', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=45, clientId=10, permId=666915774, action='SELL', account='DU2280941')",ALNY
+38,"Stock(symbol='ALXN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=46, clientId=10, permId=666915776, action='SELL', account='DU2280941')",ALXN
+39,"Stock(symbol='AMAT', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=47, clientId=10, permId=666915783, action='BUY', account='DU2280941')",AMAT
+40,"Stock(symbol='AMCR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=48, clientId=10, permId=666915740, action='BUY', account='DU2280941')",AMCR
+41,"Stock(symbol='AMD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=49, clientId=10, permId=666915785, action='BUY', account='DU2280941')",AMD
+42,"Stock(symbol='AME', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=50, clientId=10, permId=666915741, action='BUY', account='DU2280941')",AME
+43,"Stock(symbol='AMED', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=51, clientId=10, permId=666915788, action='SELL', account='DU2280941')",AMED
+44,"Stock(symbol='AMGN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=52, clientId=10, permId=666915789, action='SELL', account='DU2280941')",AMGN
+45,"Stock(symbol='AMH', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=53, clientId=10, permId=666915743, action='SELL', account='DU2280941')",AMH
+46,"Stock(symbol='AMP', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=54, clientId=10, permId=666915744, action='SELL', account='DU2280941')",AMP
+47,"Stock(symbol='AMRN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=55, clientId=10, permId=666915794, action='BUY', account='DU2280941')",AMRN
+48,"Stock(symbol='AMT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=56, clientId=10, permId=666915745, action='BUY', account='DU2280941')",AMT
+49,"Stock(symbol='AMTD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=57, clientId=10, permId=666915795, action='SELL', account='DU2280941')",AMTD
+50,"Stock(symbol='AMX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=58, clientId=10, permId=666915746, action='BUY', account='DU2280941')",AMX
+51,"Stock(symbol='ANET', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=59, clientId=10, permId=666915748, action='SELL', account='DU2280941')",ANET
+52,"Stock(symbol='ANSS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=60, clientId=10, permId=666915802, action='BUY', account='DU2280941')",ANSS
+53,"Stock(symbol='ANTM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=61, clientId=10, permId=666915749, action='BUY', account='DU2280941')",ANTM
+54,"Stock(symbol='AOS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=62, clientId=10, permId=666915750, action='SELL', account='DU2280941')",AOS
+55,"Stock(symbol='APA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=63, clientId=10, permId=666915803, action='SELL', account='DU2280941')",APA
+56,"Stock(symbol='APD', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=64, clientId=10, permId=666915751, action='SELL', account='DU2280941')",APD
+57,"Stock(symbol='APH', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=65, clientId=10, permId=666915752, action='BUY', account='DU2280941')",APH
+58,"Stock(symbol='APO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=66, clientId=10, permId=666915753, action='BUY', account='DU2280941')",APO
+59,"Stock(symbol='APTV', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=67, clientId=10, permId=666915755, action='BUY', account='DU2280941')",APTV
+60,"Stock(symbol='AQN', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=68, clientId=10, permId=666915756, action='SELL', account='DU2280941')",AQN
+61,"Stock(symbol='ARCC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=69, clientId=10, permId=666915812, action='BUY', account='DU2280941')",ARCC
+62,"Stock(symbol='ARE', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=70, clientId=10, permId=666915757, action='SELL', account='DU2280941')",ARE
+63,"Stock(symbol='ARES', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=71, clientId=10, permId=666915758, action='BUY', account='DU2280941')",ARES
+64,"Stock(symbol='ARGX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=72, clientId=10, permId=666915813, action='BUY', account='DU2280941')",ARGX
+65,"Stock(symbol='ARMK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=73, clientId=10, permId=666915759, action='BUY', account='DU2280941')",ARMK
+66,"Stock(symbol='ARNC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=74, clientId=10, permId=666915760, action='BUY', account='DU2280941')",ARNC
+67,"Stock(symbol='ASX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=75, clientId=10, permId=666915761, action='BUY', account='DU2280941')",ASX
+68,"Stock(symbol='ATH', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=76, clientId=10, permId=666915762, action='BUY', account='DU2280941')",ATH
+69,"Stock(symbol='ATHM', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=77, clientId=10, permId=666915763, action='SELL', account='DU2280941')",ATHM
+70,"Stock(symbol='ATO', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=78, clientId=10, permId=666915764, action='SELL', account='DU2280941')",ATO
+71,"Stock(symbol='ATR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=79, clientId=10, permId=666915765, action='BUY', account='DU2280941')",ATR
+72,"Stock(symbol='ATUS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=80, clientId=10, permId=666915766, action='BUY', account='DU2280941')",ATUS
+73,"Stock(symbol='ATVI', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=81, clientId=10, permId=666915824, action='SELL', account='DU2280941')",ATVI
+74,"Stock(symbol='AU', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=82, clientId=10, permId=666915768, action='BUY', account='DU2280941')",AU
+75,"Stock(symbol='AVGO', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=83, clientId=10, permId=666915832, action='SELL', account='DU2280941')",AVGO
+76,"Stock(symbol='AVLR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=84, clientId=10, permId=666915769, action='BUY', account='DU2280941')",AVLR
+77,"Stock(symbol='AVTR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=85, clientId=10, permId=666915771, action='BUY', account='DU2280941')",AVTR
+78,"Stock(symbol='AVY', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=86, clientId=10, permId=666915772, action='BUY', account='DU2280941')",AVY
+79,"Stock(symbol='AWK', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=87, clientId=10, permId=666915773, action='SELL', account='DU2280941')",AWK
+80,"Stock(symbol='AXP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=88, clientId=10, permId=666915775, action='BUY', account='DU2280941')",AXP
+81,"Stock(symbol='AXTA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=89, clientId=10, permId=666915777, action='BUY', account='DU2280941')",AXTA
+82,"Stock(symbol='AYX', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=90, clientId=10, permId=666915778, action='SELL', account='DU2280941')",AYX
+83,"Stock(symbol='AZN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=91, clientId=10, permId=666915779, action='BUY', account='DU2280941')",AZN
+84,"Stock(symbol='AZPN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=92, clientId=10, permId=666915844, action='BUY', account='DU2280941')",AZPN
+85,"Stock(symbol='BA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=93, clientId=10, permId=666915780, action='BUY', account='DU2280941')",BA
+86,"Stock(symbol='BAC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=94, clientId=10, permId=666915781, action='BUY', account='DU2280941')",BAC
+87,"Stock(symbol='BAH', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=95, clientId=10, permId=666915782, action='SELL', account='DU2280941')",BAH
+88,"Stock(symbol='BAM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=96, clientId=10, permId=666915784, action='BUY', account='DU2280941')",BAM
+89,"Stock(symbol='BAP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=97, clientId=10, permId=666915786, action='BUY', account='DU2280941')",BAP
+90,"Stock(symbol='BATRA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=98, clientId=10, permId=666915851, action='BUY', account='DU2280941')",BATRA
+91,"Stock(symbol='BAX', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=99, clientId=10, permId=666915787, action='SELL', account='DU2280941')",BAX
+92,"Stock(symbol='BBD', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=100, clientId=10, permId=666915790, action='SELL', account='DU2280941')",BBD
+93,"Stock(symbol='BBDO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=101, clientId=10, permId=666915791, action='BUY', account='DU2280941')",BBDO
+94,"Stock(symbol='BBL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=102, clientId=10, permId=666915792, action='BUY', account='DU2280941')",BBL
+95,"Stock(symbol='BBVA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=103, clientId=10, permId=666915793, action='BUY', account='DU2280941')",BBVA
+96,"Stock(symbol='BBY', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=104, clientId=10, permId=666915796, action='SELL', account='DU2280941')",BBY
+97,"Stock(symbol='BCH', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=105, clientId=10, permId=666915797, action='BUY', account='DU2280941')",BCH
+98,"Stock(symbol='BCS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=106, clientId=10, permId=666915798, action='BUY', account='DU2280941')",BCS
+99,"Stock(symbol='BEN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=107, clientId=10, permId=666915799, action='BUY', account='DU2280941')",BEN
+100,"Stock(symbol='BFAM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=108, clientId=10, permId=666915800, action='BUY', account='DU2280941')",BFAM
+101,"Stock(symbol='BG', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=109, clientId=10, permId=666915801, action='SELL', account='DU2280941')",BG
+102,"Stock(symbol='BGNE', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=110, clientId=10, permId=666915872, action='SELL', account='DU2280941')",BGNE
+103,"Stock(symbol='BHC', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=111, clientId=10, permId=666915804, action='SELL', account='DU2280941')",BHC
+104,"Stock(symbol='BHP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=112, clientId=10, permId=666915805, action='BUY', account='DU2280941')",BHP
+105,"Stock(symbol='BIDU', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=113, clientId=10, permId=666915877, action='BUY', account='DU2280941')",BIDU
+106,"Stock(symbol='BIIB', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=114, clientId=10, permId=666915879, action='SELL', account='DU2280941')",BIIB
+107,"Stock(symbol='BILI', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=115, clientId=10, permId=666915878, action='SELL', account='DU2280941')",BILI
+108,"Stock(symbol='BIO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=116, clientId=10, permId=666915806, action='BUY', account='DU2280941')",BIO
+109,"Stock(symbol='BK', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=117, clientId=10, permId=666915807, action='SELL', account='DU2280941')",BK
+110,"Stock(symbol='BKI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=118, clientId=10, permId=666915808, action='BUY', account='DU2280941')",BKI
+111,"Stock(symbol='BKR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=119, clientId=10, permId=666915809, action='SELL', account='DU2280941')",BKR
+112,"Stock(symbol='BLK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=120, clientId=10, permId=666915810, action='BUY', account='DU2280941')",BLK
+113,"Stock(symbol='BLL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=121, clientId=10, permId=666915811, action='BUY', account='DU2280941')",BLL
+114,"Stock(symbol='BMRN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=122, clientId=10, permId=666915888, action='BUY', account='DU2280941')",BMRN
+115,"Stock(symbol='BMY', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=123, clientId=10, permId=666915814, action='SELL', account='DU2280941')",BMY
+116,"Stock(symbol='BNS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=124, clientId=10, permId=666915815, action='BUY', account='DU2280941')",BNS
+117,"Stock(symbol='BNTX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=125, clientId=10, permId=666915892, action='SELL', account='DU2280941')",BNTX
+118,"Stock(symbol='BP', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=126, clientId=10, permId=666915816, action='SELL', account='DU2280941')",BP
+119,"Stock(symbol='BPY', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=127, clientId=10, permId=666915895, action='BUY', account='DU2280941')",BPY
+120,"Stock(symbol='BR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=128, clientId=10, permId=666915817, action='SELL', account='DU2280941')",BR
+121,"Stock(symbol='BRKR', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=129, clientId=10, permId=666915898, action='BUY', account='DU2280941')",BRKR
+122,"Stock(symbol='BRO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=130, clientId=10, permId=666915818, action='BUY', account='DU2280941')",BRO
+123,"Stock(symbol='BSAC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=131, clientId=10, permId=666915819, action='BUY', account='DU2280941')",BSAC
+124,"Stock(symbol='BSBR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=132, clientId=10, permId=666915820, action='BUY', account='DU2280941')",BSBR
+125,"Stock(symbol='BSX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=133, clientId=10, permId=666915821, action='BUY', account='DU2280941')",BSX
+126,"Stock(symbol='BWA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=134, clientId=10, permId=666915822, action='BUY', account='DU2280941')",BWA
+127,"Stock(symbol='BWXT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=135, clientId=10, permId=666915823, action='BUY', account='DU2280941')",BWXT
+128,"Stock(symbol='BX', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=136, clientId=10, permId=666915825, action='SELL', account='DU2280941')",BX
+129,"Stock(symbol='BXP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=137, clientId=10, permId=666915826, action='BUY', account='DU2280941')",BXP
+130,"Stock(symbol='BYND', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=138, clientId=10, permId=666915909, action='BUY', account='DU2280941')",BYND
+131,"Stock(symbol='C', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=139, clientId=10, permId=666915827, action='BUY', account='DU2280941')",C
+132,"Stock(symbol='CACC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=140, clientId=10, permId=666915910, action='SELL', account='DU2280941')",CACC
+133,"Stock(symbol='CACI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=141, clientId=10, permId=666915828, action='BUY', account='DU2280941')",CACI
+134,"Stock(symbol='CAE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=142, clientId=10, permId=666915829, action='BUY', account='DU2280941')",CAE
+135,"Stock(symbol='CAG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=143, clientId=10, permId=666915830, action='BUY', account='DU2280941')",CAG
+136,"Stock(symbol='CAH', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=144, clientId=10, permId=666915831, action='SELL', account='DU2280941')",CAH
+137,"Stock(symbol='CASY', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=145, clientId=10, permId=666915912, action='BUY', account='DU2280941')",CASY
+138,"Stock(symbol='CAT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=146, clientId=10, permId=666915833, action='BUY', account='DU2280941')",CAT
+139,"Stock(symbol='CB', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=147, clientId=10, permId=666915834, action='BUY', account='DU2280941')",CB
+140,"Stock(symbol='CBRE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=148, clientId=10, permId=666915835, action='BUY', account='DU2280941')",CBRE
+141,"Stock(symbol='CCC', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=149, clientId=10, permId=666915836, action='SELL', account='DU2280941')",CCC
+142,"Stock(symbol='CCEP', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=150, clientId=10, permId=666915837, action='SELL', account='DU2280941')",CCEP
+143,"Stock(symbol='CCI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=151, clientId=10, permId=666915838, action='BUY', account='DU2280941')",CCI
+144,"Stock(symbol='CCK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=152, clientId=10, permId=666915839, action='BUY', account='DU2280941')",CCK
+145,"Stock(symbol='CCL', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=153, clientId=10, permId=666915840, action='SELL', account='DU2280941')",CCL
+146,"Stock(symbol='CDAY', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=154, clientId=10, permId=666915841, action='SELL', account='DU2280941')",CDAY
+147,"Stock(symbol='CDK', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=155, clientId=10, permId=666915925, action='SELL', account='DU2280941')",CDK
+148,"Stock(symbol='CDNS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=156, clientId=10, permId=666915929, action='SELL', account='DU2280941')",CDNS
+149,"Stock(symbol='CDW', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=157, clientId=10, permId=666915928, action='BUY', account='DU2280941')",CDW
+150,"Stock(symbol='CE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=158, clientId=10, permId=666915842, action='BUY', account='DU2280941')",CE
+151,"Stock(symbol='CEA', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=159, clientId=10, permId=666915843, action='SELL', account='DU2280941')",CEA
+152,"Stock(symbol='CERN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=160, clientId=10, permId=666915932, action='SELL', account='DU2280941')",CERN
+153,"Stock(symbol='CF', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=161, clientId=10, permId=666915845, action='BUY', account='DU2280941')",CF
+154,"Stock(symbol='CFG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=162, clientId=10, permId=666915846, action='BUY', account='DU2280941')",CFG
+155,"Stock(symbol='CFXA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=163, clientId=10, permId=666915847, action='BUY', account='DU2280941')",CFXA
+156,"Stock(symbol='CG', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=164, clientId=10, permId=666915936, action='BUY', account='DU2280941')",CG
+157,"Stock(symbol='CGC', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=165, clientId=10, permId=666915848, action='SELL', account='DU2280941')",CGC
+158,"Stock(symbol='CGNX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=166, clientId=10, permId=666915939, action='BUY', account='DU2280941')",CGNX
+159,"Stock(symbol='CHA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=167, clientId=10, permId=666915849, action='BUY', account='DU2280941')",CHA
+160,"Stock(symbol='CHD', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=168, clientId=10, permId=666915850, action='SELL', account='DU2280941')",CHD
+161,"Stock(symbol='CHE', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=169, clientId=10, permId=666915852, action='SELL', account='DU2280941')",CHE
+162,"Stock(symbol='CHKP', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=170, clientId=10, permId=666915940, action='SELL', account='DU2280941')",CHKP
+163,"Stock(symbol='CHRW', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=171, clientId=10, permId=666915941, action='BUY', account='DU2280941')",CHRW
+164,"Stock(symbol='CHT', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=172, clientId=10, permId=666915853, action='SELL', account='DU2280941')",CHT
+165,"Stock(symbol='CHU', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=173, clientId=10, permId=666915854, action='BUY', account='DU2280941')",CHU
+166,"Stock(symbol='CHWY', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=174, clientId=10, permId=666915855, action='BUY', account='DU2280941')",CHWY
+167,"Stock(symbol='CI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=175, clientId=10, permId=666915856, action='BUY', account='DU2280941')",CI
+168,"Stock(symbol='CIB', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=176, clientId=10, permId=666915857, action='BUY', account='DU2280941')",CIB
+169,"Stock(symbol='CIEN', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=177, clientId=10, permId=666915858, action='SELL', account='DU2280941')",CIEN
+170,"Stock(symbol='CINF', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=178, clientId=10, permId=666915952, action='BUY', account='DU2280941')",CINF
+171,"Stock(symbol='CL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=179, clientId=10, permId=666915859, action='BUY', account='DU2280941')",CL
+172,"Stock(symbol='CLR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=180, clientId=10, permId=666915860, action='SELL', account='DU2280941')",CLR
+173,"Stock(symbol='CLX', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=181, clientId=10, permId=666915861, action='SELL', account='DU2280941')",CLX
+174,"Stock(symbol='CM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=182, clientId=10, permId=666915862, action='BUY', account='DU2280941')",CM
+175,"Stock(symbol='CMA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=183, clientId=10, permId=666915863, action='BUY', account='DU2280941')",CMA
+176,"Stock(symbol='CMCSA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=184, clientId=10, permId=666915955, action='SELL', account='DU2280941')",CMCSA
+177,"Stock(symbol='CME', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=185, clientId=10, permId=666915956, action='BUY', account='DU2280941')",CME
+178,"Stock(symbol='CMS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=186, clientId=10, permId=666915864, action='SELL', account='DU2280941')",CMS
+179,"Stock(symbol='CNA', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=187, clientId=10, permId=666915865, action='SELL', account='DU2280941')",CNA
+180,"Stock(symbol='CNC', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=188, clientId=10, permId=666915866, action='SELL', account='DU2280941')",CNC
+181,"Stock(symbol='CNHI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=189, clientId=10, permId=666915867, action='BUY', account='DU2280941')",CNHI
+182,"Stock(symbol='CNI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=190, clientId=10, permId=666915868, action='BUY', account='DU2280941')",CNI
+183,"Stock(symbol='CNP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=191, clientId=10, permId=666915869, action='BUY', account='DU2280941')",CNP
+184,"Stock(symbol='CNQ', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=192, clientId=10, permId=666915870, action='SELL', account='DU2280941')",CNQ
+185,"Stock(symbol='COF', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=193, clientId=10, permId=666915871, action='BUY', account='DU2280941')",COF
+186,"Stock(symbol='COLD', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=194, clientId=10, permId=666915873, action='BUY', account='DU2280941')",COLD
+187,"Stock(symbol='CONE', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=195, clientId=10, permId=666915965, action='BUY', account='DU2280941')",CONE
+188,"Stock(symbol='COO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=196, clientId=10, permId=666915874, action='BUY', account='DU2280941')",COO
+189,"Stock(symbol='COP', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=197, clientId=10, permId=666915875, action='SELL', account='DU2280941')",COP
+190,"Stock(symbol='COTY', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=198, clientId=10, permId=666915876, action='BUY', account='DU2280941')",COTY
+191,"Stock(symbol='COUP', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=199, clientId=10, permId=666915968, action='BUY', account='DU2280941')",COUP
+192,"Stock(symbol='CPB', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=200, clientId=10, permId=666915880, action='BUY', account='DU2280941')",CPB
+193,"Stock(symbol='CPRT', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=201, clientId=10, permId=666915971, action='BUY', account='DU2280941')",CPRT
+194,"Stock(symbol='CPT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=202, clientId=10, permId=666915881, action='BUY', account='DU2280941')",CPT
+195,"Stock(symbol='CQP', exchange='SMART', primaryExchange='AMEX', currency='USD')",BUY,"MarketOrder(orderId=203, clientId=10, permId=666915882, action='BUY', account='DU2280941')",CQP
+196,"Stock(symbol='CRH', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=204, clientId=10, permId=666915883, action='SELL', account='DU2280941')",CRH
+197,"Stock(symbol='CRL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=205, clientId=10, permId=666915884, action='BUY', account='DU2280941')",CRL
+198,"Stock(symbol='CRWD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=206, clientId=10, permId=666915979, action='SELL', account='DU2280941')",CRWD
+199,"Stock(symbol='CS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=207, clientId=10, permId=666915885, action='SELL', account='DU2280941')",CS
+200,"Stock(symbol='CSCO', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=208, clientId=10, permId=666915980, action='SELL', account='DU2280941')",CSCO
+201,"Stock(symbol='CSX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=209, clientId=10, permId=666915983, action='SELL', account='DU2280941')",CSX
+202,"Stock(symbol='CTAS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=210, clientId=10, permId=666915987, action='BUY', account='DU2280941')",CTAS
+203,"Stock(symbol='CTL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=211, clientId=10, permId=666915886, action='BUY', account='DU2280941')",CTL
+204,"Stock(symbol='CTLT', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=212, clientId=10, permId=666915887, action='SELL', account='DU2280941')",CTLT
+205,"Stock(symbol='CTSH', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=213, clientId=10, permId=666915988, action='BUY', account='DU2280941')",CTSH
+206,"Stock(symbol='CTVA', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=214, clientId=10, permId=666915889, action='SELL', account='DU2280941')",CTVA
+207,"Stock(symbol='CTXS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=215, clientId=10, permId=666915990, action='SELL', account='DU2280941')",CTXS
+208,"Stock(symbol='CUBE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=216, clientId=10, permId=666915890, action='BUY', account='DU2280941')",CUBE
+209,"Stock(symbol='CVE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=217, clientId=10, permId=666915891, action='BUY', account='DU2280941')",CVE
+210,"Stock(symbol='CVNA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=218, clientId=10, permId=666915893, action='BUY', account='DU2280941')",CVNA
+211,"Stock(symbol='CVX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=219, clientId=10, permId=666915894, action='BUY', account='DU2280941')",CVX
+212,"Stock(symbol='CW', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=220, clientId=10, permId=666915896, action='BUY', account='DU2280941')",CW
+213,"Stock(symbol='CXO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=221, clientId=10, permId=666915897, action='BUY', account='DU2280941')",CXO
+214,"Stock(symbol='CZR', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=222, clientId=10, permId=666915995, action='SELL', account='DU2280941')",CZR
+215,"Stock(symbol='DAL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=223, clientId=10, permId=666915899, action='BUY', account='DU2280941')",DAL
+216,"Stock(symbol='DB', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=224, clientId=10, permId=666915900, action='BUY', account='DU2280941')",DB
+217,"Stock(symbol='DBX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=225, clientId=10, permId=666915999, action='SELL', account='DU2280941')",DBX
+218,"Stock(symbol='DCI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=226, clientId=10, permId=666915901, action='BUY', account='DU2280941')",DCI
+219,"Stock(symbol='DD', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=227, clientId=10, permId=666915902, action='BUY', account='DU2280941')",DD
+220,"Stock(symbol='DDOG', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=228, clientId=10, permId=666916005, action='BUY', account='DU2280941')",DDOG
+221,"Stock(symbol='DE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=229, clientId=10, permId=666915903, action='BUY', account='DU2280941')",DE
+222,"Stock(symbol='DELL', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=230, clientId=10, permId=666915904, action='SELL', account='DU2280941')",DELL
+223,"Stock(symbol='DFS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=231, clientId=10, permId=666915905, action='BUY', account='DU2280941')",DFS
+224,"Stock(symbol='DGX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=232, clientId=10, permId=666915906, action='BUY', account='DU2280941')",DGX
+225,"Stock(symbol='DHI', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=233, clientId=10, permId=666915907, action='SELL', account='DU2280941')",DHI
+226,"Stock(symbol='DIS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=234, clientId=10, permId=666915908, action='SELL', account='DU2280941')",DIS
+227,"Stock(symbol='DISCA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=235, clientId=10, permId=666916010, action='BUY', account='DU2280941')",DISCA
+228,"Stock(symbol='DISH', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=236, clientId=10, permId=666916011, action='BUY', account='DU2280941')",DISH
+229,"Stock(symbol='DLR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=237, clientId=10, permId=666915911, action='SELL', account='DU2280941')",DLR
+230,"Stock(symbol='DLTR', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=238, clientId=10, permId=666916018, action='SELL', account='DU2280941')",DLTR
+231,"Stock(symbol='DNKN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=239, clientId=10, permId=666916020, action='SELL', account='DU2280941')",DNKN
+232,"Stock(symbol='DOCU', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=240, clientId=10, permId=666916021, action='BUY', account='DU2280941')",DOCU
+233,"Stock(symbol='DOV', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=241, clientId=10, permId=666915913, action='SELL', account='DU2280941')",DOV
+234,"Stock(symbol='DOW', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=242, clientId=10, permId=666915914, action='SELL', account='DU2280941')",DOW
+235,"Stock(symbol='DOX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=243, clientId=10, permId=666916022, action='BUY', account='DU2280941')",DOX
+236,"Stock(symbol='DPZ', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=244, clientId=10, permId=666915915, action='BUY', account='DU2280941')",DPZ
+237,"Stock(symbol='DRE', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=245, clientId=10, permId=666915916, action='SELL', account='DU2280941')",DRE
+238,"Stock(symbol='DT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=246, clientId=10, permId=666915917, action='BUY', account='DU2280941')",DT
+239,"Stock(symbol='DVA', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=247, clientId=10, permId=666915918, action='SELL', account='DU2280941')",DVA
+240,"Stock(symbol='DVN', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=248, clientId=10, permId=666915919, action='SELL', account='DU2280941')",DVN
+241,"Stock(symbol='DXC', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=249, clientId=10, permId=666915920, action='SELL', account='DU2280941')",DXC
+242,"Stock(symbol='DXCM', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=250, clientId=10, permId=666916034, action='BUY', account='DU2280941')",DXCM
+243,"Stock(symbol='E', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=251, clientId=10, permId=666915921, action='SELL', account='DU2280941')",E
+244,"Stock(symbol='EBAY', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=252, clientId=10, permId=666916035, action='SELL', account='DU2280941')",EBAY
+245,"Stock(symbol='EBAYL', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=253, clientId=10, permId=666916036, action='SELL', account='DU2280941')",EBAYL
+246,"Stock(symbol='EBR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=254, clientId=10, permId=666915922, action='BUY', account='DU2280941')",EBR
+247,"Stock(symbol='EC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=255, clientId=10, permId=666915923, action='BUY', account='DU2280941')",EC
+248,"Stock(symbol='ECL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=256, clientId=10, permId=666915924, action='BUY', account='DU2280941')",ECL
+249,"Stock(symbol='ED', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=257, clientId=10, permId=666915926, action='BUY', account='DU2280941')",ED
+250,"Stock(symbol='EDU', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=258, clientId=10, permId=666915927, action='BUY', account='DU2280941')",EDU
+251,"Stock(symbol='EEFT', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=259, clientId=10, permId=666916040, action='BUY', account='DU2280941')",EEFT
+252,"Stock(symbol='EFX', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=260, clientId=10, permId=666915930, action='SELL', account='DU2280941')",EFX
+253,"Stock(symbol='EHC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=261, clientId=10, permId=666915931, action='BUY', account='DU2280941')",EHC
+254,"Stock(symbol='EIX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=262, clientId=10, permId=666915933, action='BUY', account='DU2280941')",EIX
+255,"Stock(symbol='ELAN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=263, clientId=10, permId=666915934, action='BUY', account='DU2280941')",ELAN
+256,"Stock(symbol='ELS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=264, clientId=10, permId=666915935, action='SELL', account='DU2280941')",ELS
+257,"Stock(symbol='EMN', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=265, clientId=10, permId=666915937, action='SELL', account='DU2280941')",EMN
+258,"Stock(symbol='EMR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=266, clientId=10, permId=666915938, action='SELL', account='DU2280941')",EMR
+259,"Stock(symbol='ENIA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=267, clientId=10, permId=666915942, action='BUY', account='DU2280941')",ENIA
+260,"Stock(symbol='ENIC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=268, clientId=10, permId=666915943, action='BUY', account='DU2280941')",ENIC
+261,"Stock(symbol='ENTG', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=269, clientId=10, permId=666916050, action='BUY', account='DU2280941')",ENTG
+262,"Stock(symbol='EOG', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=270, clientId=10, permId=666915944, action='SELL', account='DU2280941')",EOG
+263,"Stock(symbol='EPD', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=271, clientId=10, permId=666915945, action='BUY', account='DU2280941')",EPD
+264,"Stock(symbol='EQH', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=272, clientId=10, permId=666915946, action='SELL', account='DU2280941')",EQH
+265,"Stock(symbol='EQNR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=273, clientId=10, permId=666915947, action='BUY', account='DU2280941')",EQNR
+266,"Stock(symbol='EQR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=274, clientId=10, permId=666915948, action='SELL', account='DU2280941')",EQR
+267,"Stock(symbol='ERIC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=275, clientId=10, permId=666916053, action='BUY', account='DU2280941')",ERIC
+268,"Stock(symbol='ES', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=276, clientId=10, permId=666915949, action='BUY', account='DU2280941')",ES
+269,"Stock(symbol='ET', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=277, clientId=10, permId=666915950, action='BUY', account='DU2280941')",ET
+270,"Stock(symbol='ETFC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=278, clientId=10, permId=666916056, action='SELL', account='DU2280941')",ETFC
+271,"Stock(symbol='ETR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=279, clientId=10, permId=666915951, action='SELL', account='DU2280941')",ETR
+272,"Stock(symbol='EVRG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=280, clientId=10, permId=666915953, action='BUY', account='DU2280941')",EVRG
+273,"Stock(symbol='EW', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=281, clientId=10, permId=666915954, action='SELL', account='DU2280941')",EW
+274,"Stock(symbol='EWBC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=282, clientId=10, permId=666916069, action='BUY', account='DU2280941')",EWBC
+275,"Stock(symbol='EXAS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=283, clientId=10, permId=666916072, action='BUY', account='DU2280941')",EXAS
+276,"Stock(symbol='EXC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=284, clientId=10, permId=666916075, action='BUY', account='DU2280941')",EXC
+277,"Stock(symbol='EXPD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=285, clientId=10, permId=666916073, action='BUY', account='DU2280941')",EXPD
+278,"Stock(symbol='EXPE', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=286, clientId=10, permId=666916077, action='BUY', account='DU2280941')",EXPE
+279,"Stock(symbol='EXR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=287, clientId=10, permId=666915957, action='BUY', account='DU2280941')",EXR
+280,"Stock(symbol='F', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=288, clientId=10, permId=666915958, action='BUY', account='DU2280941')",F
+281,"Stock(symbol='FAF', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=289, clientId=10, permId=666915959, action='SELL', account='DU2280941')",FAF
+282,"Stock(symbol='FAST', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=290, clientId=10, permId=666916082, action='BUY', account='DU2280941')",FAST
+283,"Stock(symbol='FBHS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=291, clientId=10, permId=666915960, action='BUY', account='DU2280941')",FBHS
+284,"Stock(symbol='FCAU', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=292, clientId=10, permId=666915961, action='BUY', account='DU2280941')",FCAU
+285,"Stock(symbol='FCX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=293, clientId=10, permId=666915962, action='BUY', account='DU2280941')",FCX
+286,"Stock(symbol='FDS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=294, clientId=10, permId=666915963, action='BUY', account='DU2280941')",FDS
+287,"Stock(symbol='FE', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=295, clientId=10, permId=666915964, action='SELL', account='DU2280941')",FE
+288,"Stock(symbol='FFIV', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=296, clientId=10, permId=666916086, action='BUY', account='DU2280941')",FFIV
+289,"Stock(symbol='FICO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=297, clientId=10, permId=666915966, action='BUY', account='DU2280941')",FICO
+290,"Stock(symbol='FIS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=298, clientId=10, permId=666915967, action='BUY', account='DU2280941')",FIS
+291,"Stock(symbol='FITB', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=299, clientId=10, permId=666916094, action='BUY', account='DU2280941')",FITB
+292,"Stock(symbol='FIVE', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=300, clientId=10, permId=666916096, action='BUY', account='DU2280941')",FIVE
+293,"Stock(symbol='FLEX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=301, clientId=10, permId=666916097, action='BUY', account='DU2280941')",FLEX
+294,"Stock(symbol='FLIR', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=302, clientId=10, permId=666916099, action='BUY', account='DU2280941')",FLIR
+295,"Stock(symbol='FLT', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=303, clientId=10, permId=666915969, action='SELL', account='DU2280941')",FLT
+296,"Stock(symbol='FMC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=304, clientId=10, permId=666915970, action='BUY', account='DU2280941')",FMC
+297,"Stock(symbol='FMX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=305, clientId=10, permId=666915972, action='BUY', account='DU2280941')",FMX
+298,"Stock(symbol='FNF', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=306, clientId=10, permId=666915973, action='SELL', account='DU2280941')",FNF
+299,"Stock(symbol='FNV', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=307, clientId=10, permId=666915974, action='BUY', account='DU2280941')",FNV
+300,"Stock(symbol='FOXA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=308, clientId=10, permId=666916103, action='SELL', account='DU2280941')",FOXA
+301,"Stock(symbol='FRC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=309, clientId=10, permId=666915975, action='BUY', account='DU2280941')",FRC
+302,"Stock(symbol='FRT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=310, clientId=10, permId=666915976, action='BUY', account='DU2280941')",FRT
+303,"Stock(symbol='FTI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=311, clientId=10, permId=666915977, action='BUY', account='DU2280941')",FTI
+304,"Stock(symbol='FTNT', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=312, clientId=10, permId=666916106, action='BUY', account='DU2280941')",FTNT
+305,"Stock(symbol='FTS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=313, clientId=10, permId=666915978, action='SELL', account='DU2280941')",FTS
+306,"Stock(symbol='FWONA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=314, clientId=10, permId=666916107, action='BUY', account='DU2280941')",FWONA
+307,"Stock(symbol='FWONK', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=315, clientId=10, permId=666916108, action='BUY', account='DU2280941')",FWONK
+308,"Stock(symbol='G', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=316, clientId=10, permId=666915981, action='BUY', account='DU2280941')",G
+309,"Stock(symbol='GD', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=317, clientId=10, permId=666915982, action='SELL', account='DU2280941')",GD
+310,"Stock(symbol='GDDY', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=318, clientId=10, permId=666915984, action='SELL', account='DU2280941')",GDDY
+311,"Stock(symbol='GDS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=319, clientId=10, permId=666916112, action='SELL', account='DU2280941')",GDS
+312,"Stock(symbol='GE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=320, clientId=10, permId=666915985, action='BUY', account='DU2280941')",GE
+313,"Stock(symbol='GGB', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=321, clientId=10, permId=666915986, action='SELL', account='DU2280941')",GGB
+314,"Stock(symbol='GH', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=322, clientId=10, permId=666916117, action='BUY', account='DU2280941')",GH
+315,"Stock(symbol='GILD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=323, clientId=10, permId=666916115, action='SELL', account='DU2280941')",GILD
+316,"Stock(symbol='GIS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=324, clientId=10, permId=666915989, action='SELL', account='DU2280941')",GIS
+317,"Stock(symbol='GL', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=325, clientId=10, permId=666915991, action='SELL', account='DU2280941')",GL
+318,"Stock(symbol='GLIBA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=326, clientId=10, permId=666916120, action='BUY', account='DU2280941')",GLIBA
+319,"Stock(symbol='GLPI', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=327, clientId=10, permId=666916122, action='BUY', account='DU2280941')",GLPI
+320,"Stock(symbol='GLW', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=328, clientId=10, permId=666915992, action='BUY', account='DU2280941')",GLW
+321,"Stock(symbol='GM', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=329, clientId=10, permId=666915993, action='SELL', account='DU2280941')",GM
+322,"Stock(symbol='GMAB', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=330, clientId=10, permId=666916125, action='BUY', account='DU2280941')",GMAB
+323,"Stock(symbol='GNRC', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=331, clientId=10, permId=666915994, action='SELL', account='DU2280941')",GNRC
+324,"Stock(symbol='GNTX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=332, clientId=10, permId=666916126, action='SELL', account='DU2280941')",GNTX
+325,"Stock(symbol='GOLD', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=333, clientId=10, permId=666915996, action='BUY', account='DU2280941')",GOLD
+326,"Stock(symbol='GPC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=334, clientId=10, permId=666915997, action='BUY', account='DU2280941')",GPC
+327,"Stock(symbol='GPS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=335, clientId=10, permId=666915998, action='SELL', account='DU2280941')",GPS
+328,"Stock(symbol='GRFS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=336, clientId=10, permId=666916135, action='SELL', account='DU2280941')",GRFS
+329,"Stock(symbol='GRMN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=337, clientId=10, permId=666916137, action='BUY', account='DU2280941')",GRMN
+330,"Stock(symbol='GS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=338, clientId=10, permId=666916000, action='BUY', account='DU2280941')",GS
+331,"Stock(symbol='GSK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=339, clientId=10, permId=666916001, action='BUY', account='DU2280941')",GSK
+332,"Stock(symbol='GSX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=340, clientId=10, permId=666916002, action='BUY', account='DU2280941')",GSX
+333,"Stock(symbol='GWRE', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=341, clientId=10, permId=666916003, action='SELL', account='DU2280941')",GWRE
+334,"Stock(symbol='H', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=342, clientId=10, permId=666916004, action='BUY', account='DU2280941')",H
+335,"Stock(symbol='HAL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=343, clientId=10, permId=666916006, action='BUY', account='DU2280941')",HAL
+336,"Stock(symbol='HAS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=344, clientId=10, permId=666916140, action='BUY', account='DU2280941')",HAS
+337,"Stock(symbol='HBAN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=345, clientId=10, permId=666916143, action='SELL', account='DU2280941')",HBAN
+338,"Stock(symbol='HCA', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=346, clientId=10, permId=666916007, action='SELL', account='DU2280941')",HCA
+339,"Stock(symbol='HD', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=347, clientId=10, permId=666916008, action='SELL', account='DU2280941')",HD
+340,"Stock(symbol='HDB', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=348, clientId=10, permId=666916009, action='SELL', account='DU2280941')",HDB
+341,"Stock(symbol='HDS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=349, clientId=10, permId=666916144, action='SELL', account='DU2280941')",HDS
+342,"Stock(symbol='HEI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=350, clientId=10, permId=666916012, action='BUY', account='DU2280941')",HEI
+343,"Stock(symbol='HES', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=351, clientId=10, permId=666916013, action='SELL', account='DU2280941')",HES
+344,"Stock(symbol='HFC', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=352, clientId=10, permId=666916014, action='SELL', account='DU2280941')",HFC
+345,"Stock(symbol='HIG', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=353, clientId=10, permId=666916015, action='SELL', account='DU2280941')",HIG
+346,"Stock(symbol='HII', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=354, clientId=10, permId=666916016, action='BUY', account='DU2280941')",HII
+347,"Stock(symbol='HLT', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=355, clientId=10, permId=666916017, action='SELL', account='DU2280941')",HLT
+348,"Stock(symbol='HNP', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=356, clientId=10, permId=666916019, action='SELL', account='DU2280941')",HNP
+349,"Stock(symbol='HOLX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=357, clientId=10, permId=666916152, action='SELL', account='DU2280941')",HOLX
+350,"Stock(symbol='HPE', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=358, clientId=10, permId=666916023, action='SELL', account='DU2280941')",HPE
+351,"Stock(symbol='HPQ', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=359, clientId=10, permId=666916024, action='BUY', account='DU2280941')",HPQ
+352,"Stock(symbol='HRC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=360, clientId=10, permId=666916025, action='BUY', account='DU2280941')",HRC
+353,"Stock(symbol='HRL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=361, clientId=10, permId=666916026, action='BUY', account='DU2280941')",HRL
+354,"Stock(symbol='HSBC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=362, clientId=10, permId=666916027, action='BUY', account='DU2280941')",HSBC
+355,"Stock(symbol='HSIC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=363, clientId=10, permId=666916157, action='BUY', account='DU2280941')",HSIC
+356,"Stock(symbol='HST', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=364, clientId=10, permId=666916028, action='SELL', account='DU2280941')",HST
+357,"Stock(symbol='HTA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=365, clientId=10, permId=666916029, action='BUY', account='DU2280941')",HTA
+358,"Stock(symbol='HTHT', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=366, clientId=10, permId=666916159, action='SELL', account='DU2280941')",HTHT
+359,"Stock(symbol='HUBB', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=367, clientId=10, permId=666916030, action='SELL', account='DU2280941')",HUBB
+360,"Stock(symbol='HUBS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=368, clientId=10, permId=666916031, action='BUY', account='DU2280941')",HUBS
+361,"Stock(symbol='HUM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=369, clientId=10, permId=666916032, action='BUY', account='DU2280941')",HUM
+362,"Stock(symbol='HXL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=370, clientId=10, permId=666916033, action='BUY', account='DU2280941')",HXL
+363,"Stock(symbol='HZNP', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=371, clientId=10, permId=666916173, action='BUY', account='DU2280941')",HZNP
+364,"Stock(symbol='IAA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=372, clientId=10, permId=666916037, action='BUY', account='DU2280941')",IAA
+365,"Stock(symbol='IAC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=373, clientId=10, permId=666916176, action='SELL', account='DU2280941')",IAC
+366,"Stock(symbol='IBKR', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=374, clientId=10, permId=666916177, action='BUY', account='DU2280941')",IBKR
+367,"Stock(symbol='IBM', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=375, clientId=10, permId=666916038, action='SELL', account='DU2280941')",IBM
+368,"Stock(symbol='IBN', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=376, clientId=10, permId=666916039, action='SELL', account='DU2280941')",IBN
+369,"Stock(symbol='ICE', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=377, clientId=10, permId=666916041, action='SELL', account='DU2280941')",ICE
+370,"Stock(symbol='ICLR', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=378, clientId=10, permId=666916179, action='SELL', account='DU2280941')",ICLR
+371,"Stock(symbol='IDXX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=379, clientId=10, permId=666916180, action='BUY', account='DU2280941')",IDXX
+372,"Stock(symbol='IEX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=380, clientId=10, permId=666916042, action='BUY', account='DU2280941')",IEX
+373,"Stock(symbol='IFF', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=381, clientId=10, permId=666916181, action='BUY', account='DU2280941')",IFF
+374,"Stock(symbol='IHG', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=382, clientId=10, permId=666916043, action='SELL', account='DU2280941')",IHG
+375,"Stock(symbol='IMO', exchange='SMART', primaryExchange='AMEX', currency='USD')",SELL,"MarketOrder(orderId=383, clientId=10, permId=666916044, action='SELL', account='DU2280941')",IMO
+376,"Stock(symbol='INCY', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=384, clientId=10, permId=666916182, action='SELL', account='DU2280941')",INCY
+377,"Stock(symbol='INFO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=385, clientId=10, permId=666916045, action='BUY', account='DU2280941')",INFO
+378,"Stock(symbol='INFY', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=386, clientId=10, permId=666916046, action='SELL', account='DU2280941')",INFY
+379,"Stock(symbol='ING', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=387, clientId=10, permId=666916047, action='BUY', account='DU2280941')",ING
+380,"Stock(symbol='INGR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=388, clientId=10, permId=666916048, action='BUY', account='DU2280941')",INGR
+381,"Stock(symbol='INTC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=389, clientId=10, permId=666916189, action='SELL', account='DU2280941')",INTC
+382,"Stock(symbol='INTU', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=390, clientId=10, permId=666916192, action='BUY', account='DU2280941')",INTU
+383,"Stock(symbol='INVH', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=391, clientId=10, permId=666916049, action='SELL', account='DU2280941')",INVH
+384,"Stock(symbol='IONS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=392, clientId=10, permId=666916193, action='BUY', account='DU2280941')",IONS
+385,"Stock(symbol='IP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=393, clientId=10, permId=666916051, action='BUY', account='DU2280941')",IP
+386,"Stock(symbol='IPG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=394, clientId=10, permId=666916052, action='BUY', account='DU2280941')",IPG
+387,"Stock(symbol='IPGP', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=395, clientId=10, permId=666916197, action='SELL', account='DU2280941')",IPGP
+388,"Stock(symbol='IQ', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=396, clientId=10, permId=666916199, action='BUY', account='DU2280941')",IQ
+389,"Stock(symbol='IQV', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=397, clientId=10, permId=666916054, action='BUY', account='DU2280941')",IQV
+390,"Stock(symbol='IR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=398, clientId=10, permId=666916055, action='BUY', account='DU2280941')",IR
+391,"Stock(symbol='ITUB', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=399, clientId=10, permId=666916057, action='SELL', account='DU2280941')",ITUB
+392,"Stock(symbol='ITW', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=400, clientId=10, permId=666916058, action='SELL', account='DU2280941')",ITW
+393,"Stock(symbol='IVV', exchange='SMART', primaryExchange='ARCA', currency='USD')",SELL,"MarketOrder(orderId=401, clientId=10, permId=666916059, action='SELL', account='DU2280941')",IVV
+394,"Stock(symbol='IVZ', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=402, clientId=10, permId=666916060, action='BUY', account='DU2280941')",IVZ
+395,"Stock(symbol='J', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=403, clientId=10, permId=666916061, action='BUY', account='DU2280941')",J
+396,"Stock(symbol='JAZZ', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=404, clientId=10, permId=666916212, action='BUY', account='DU2280941')",JAZZ
+397,"Stock(symbol='JBHT', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=405, clientId=10, permId=666916214, action='BUY', account='DU2280941')",JBHT
+398,"Stock(symbol='JCI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=406, clientId=10, permId=666916062, action='BUY', account='DU2280941')",JCI
+399,"Stock(symbol='JD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=407, clientId=10, permId=666916215, action='SELL', account='DU2280941')",JD
+400,"Stock(symbol='JEF', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=408, clientId=10, permId=666916063, action='SELL', account='DU2280941')",JEF
+401,"Stock(symbol='JHX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=409, clientId=10, permId=666916064, action='BUY', account='DU2280941')",JHX
+402,"Stock(symbol='JKHY', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=410, clientId=10, permId=666916216, action='SELL', account='DU2280941')",JKHY
+403,"Stock(symbol='JLL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=411, clientId=10, permId=666916065, action='BUY', account='DU2280941')",JLL
+404,"Stock(symbol='JNPR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=412, clientId=10, permId=666916066, action='BUY', account='DU2280941')",JNPR
+405,"Stock(symbol='K', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=413, clientId=10, permId=666916067, action='SELL', account='DU2280941')",K
+406,"Stock(symbol='KB', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=414, clientId=10, permId=666916068, action='SELL', account='DU2280941')",KB
+407,"Stock(symbol='KDP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=415, clientId=10, permId=666916070, action='BUY', account='DU2280941')",KDP
+408,"Stock(symbol='KEP', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=416, clientId=10, permId=666916071, action='SELL', account='DU2280941')",KEP
+409,"Stock(symbol='KEY', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=417, clientId=10, permId=666916074, action='SELL', account='DU2280941')",KEY
+410,"Stock(symbol='KEYS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=418, clientId=10, permId=666916076, action='SELL', account='DU2280941')",KEYS
+411,"Stock(symbol='KGC', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=419, clientId=10, permId=666916078, action='SELL', account='DU2280941')",KGC
+412,"Stock(symbol='KIM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=420, clientId=10, permId=666916079, action='BUY', account='DU2280941')",KIM
+413,"Stock(symbol='KKR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=421, clientId=10, permId=666916080, action='SELL', account='DU2280941')",KKR
+414,"Stock(symbol='KL', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=422, clientId=10, permId=666916081, action='SELL', account='DU2280941')",KL
+415,"Stock(symbol='KMB', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=423, clientId=10, permId=666916083, action='SELL', account='DU2280941')",KMB
+416,"Stock(symbol='KMI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=424, clientId=10, permId=666916084, action='BUY', account='DU2280941')",KMI
+417,"Stock(symbol='KMX', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=425, clientId=10, permId=666916085, action='SELL', account='DU2280941')",KMX
+418,"Stock(symbol='KNX', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=426, clientId=10, permId=666916087, action='SELL', account='DU2280941')",KNX
+419,"Stock(symbol='KO', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=427, clientId=10, permId=666916088, action='SELL', account='DU2280941')",KO
+420,"Stock(symbol='KR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=428, clientId=10, permId=666916089, action='SELL', account='DU2280941')",KR
+421,"Stock(symbol='KRC', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=429, clientId=10, permId=666916090, action='SELL', account='DU2280941')",KRC
+422,"Stock(symbol='KSS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=430, clientId=10, permId=666916091, action='BUY', account='DU2280941')",KSS
+423,"Stock(symbol='L', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=431, clientId=10, permId=666916092, action='SELL', account='DU2280941')",L
+424,"Stock(symbol='LAMR', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=432, clientId=10, action='BUY', account='DU2280941')",LAMR
+425,"Stock(symbol='LBRDA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=433, clientId=10, action='SELL', account='DU2280941')",LBRDA
+426,"Stock(symbol='LBRDK', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=434, clientId=10, action='BUY', account='DU2280941')",LBRDK
+427,"Stock(symbol='LBTYA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=435, clientId=10, action='SELL', account='DU2280941')",LBTYA
+428,"Stock(symbol='LBTYK', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=436, clientId=10, action='SELL', account='DU2280941')",LBTYK
+429,"Stock(symbol='LDOS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=437, clientId=10, permId=666916093, action='BUY', account='DU2280941')",LDOS
+430,"Stock(symbol='LEN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=438, clientId=10, permId=666916095, action='BUY', account='DU2280941')",LEN
+431,"Stock(symbol='LEVI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=439, clientId=10, permId=666916098, action='BUY', account='DU2280941')",LEVI
+432,"Stock(symbol='LH', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=440, clientId=10, permId=666916100, action='BUY', account='DU2280941')",LH
+433,"Stock(symbol='LHX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=441, clientId=10, permId=666916101, action='BUY', account='DU2280941')",LHX
+434,"Stock(symbol='LITE', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=442, clientId=10, action='BUY', account='DU2280941')",LITE
+435,"Stock(symbol='LK', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=443, clientId=10, action='BUY', account='DU2280941')",LK
+436,"Stock(symbol='LKQ', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=444, clientId=10, action='SELL', account='DU2280941')",LKQ
+437,"Stock(symbol='LN', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=445, clientId=10, permId=666916102, action='SELL', account='DU2280941')",LN
+438,"Stock(symbol='LNC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=446, clientId=10, permId=666916104, action='BUY', account='DU2280941')",LNC
+439,"Stock(symbol='LNG', exchange='SMART', primaryExchange='AMEX', currency='USD')",BUY,"MarketOrder(orderId=447, clientId=10, permId=666916105, action='BUY', account='DU2280941')",LNG
+440,"Stock(symbol='LNT', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=448, clientId=10, action='SELL', account='DU2280941')",LNT
+441,"Stock(symbol='LOGI', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=449, clientId=10, action='SELL', account='DU2280941')",LOGI
+442,"Stock(symbol='LPLA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=450, clientId=10, action='SELL', account='DU2280941')",LPLA
+443,"Stock(symbol='LSXMA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=451, clientId=10, action='SELL', account='DU2280941')",LSXMA
+444,"Stock(symbol='LSXMK', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=452, clientId=10, action='SELL', account='DU2280941')",LSXMK
+445,"Stock(symbol='LULU', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=453, clientId=10, action='BUY', account='DU2280941')",LULU
+446,"Stock(symbol='LUV', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=454, clientId=10, permId=666916109, action='BUY', account='DU2280941')",LUV
+447,"Stock(symbol='LVS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=455, clientId=10, permId=666916110, action='BUY', account='DU2280941')",LVS
+448,"Stock(symbol='LW', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=456, clientId=10, permId=666916111, action='BUY', account='DU2280941')",LW
+449,"Stock(symbol='LYB', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=457, clientId=10, permId=666916113, action='BUY', account='DU2280941')",LYB
+450,"Stock(symbol='LYFT', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=458, clientId=10, action='BUY', account='DU2280941')",LYFT
+451,"Stock(symbol='LYG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=459, clientId=10, permId=666916114, action='BUY', account='DU2280941')",LYG
+452,"Stock(symbol='LYV', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=460, clientId=10, permId=666916116, action='BUY', account='DU2280941')",LYV
+453,"Stock(symbol='MAA', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=461, clientId=10, permId=666916118, action='SELL', account='DU2280941')",MAA
+454,"Stock(symbol='MAR', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=462, clientId=10, action='BUY', account='DU2280941')",MAR
+455,"Stock(symbol='MAS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=463, clientId=10, permId=666916119, action='SELL', account='DU2280941')",MAS
+456,"Stock(symbol='MASI', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=464, clientId=10, action='BUY', account='DU2280941')",MASI
+457,"Stock(symbol='MBT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=465, clientId=10, permId=666916121, action='BUY', account='DU2280941')",MBT
+458,"Stock(symbol='MCHP', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=466, clientId=10, action='SELL', account='DU2280941')",MCHP
+459,"Stock(symbol='MCK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=467, clientId=10, permId=666916123, action='BUY', account='DU2280941')",MCK
+460,"Stock(symbol='MCO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=468, clientId=10, permId=666916124, action='BUY', account='DU2280941')",MCO
+461,"Stock(symbol='MDB', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=469, clientId=10, action='BUY', account='DU2280941')",MDB
+462,"Stock(symbol='MDLZ', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=470, clientId=10, action='SELL', account='DU2280941')",MDLZ
+463,"Stock(symbol='MDU', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=471, clientId=10, permId=666916127, action='BUY', account='DU2280941')",MDU
+464,"Stock(symbol='MELI', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=472, clientId=10, action='BUY', account='DU2280941')",MELI
+465,"Stock(symbol='MET', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=473, clientId=10, permId=666916128, action='BUY', account='DU2280941')",MET
+466,"Stock(symbol='MFC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=474, clientId=10, permId=666916129, action='BUY', account='DU2280941')",MFC
+467,"Stock(symbol='MFG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=475, clientId=10, permId=666916130, action='BUY', account='DU2280941')",MFG
+468,"Stock(symbol='MGA', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=476, clientId=10, permId=666916131, action='SELL', account='DU2280941')",MGA
+469,"Stock(symbol='MGM', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=477, clientId=10, permId=666916132, action='SELL', account='DU2280941')",MGM
+470,"Stock(symbol='MGP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=478, clientId=10, permId=666916133, action='BUY', account='DU2280941')",MGP
+471,"Stock(symbol='MHK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=479, clientId=10, permId=666916134, action='BUY', account='DU2280941')",MHK
+472,"Stock(symbol='MIDD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=480, clientId=10, action='BUY', account='DU2280941')",MIDD
+473,"Stock(symbol='MKC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=481, clientId=10, permId=666916136, action='BUY', account='DU2280941')",MKC
+474,"Stock(symbol='MKTX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=482, clientId=10, action='BUY', account='DU2280941')",MKTX
+475,"Stock(symbol='MLCO', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=483, clientId=10, action='BUY', account='DU2280941')",MLCO
+476,"Stock(symbol='MMC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=484, clientId=10, permId=666916138, action='BUY', account='DU2280941')",MMC
+477,"Stock(symbol='MMM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=485, clientId=10, permId=666916139, action='BUY', account='DU2280941')",MMM
+478,"Stock(symbol='MMP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=486, clientId=10, permId=666916141, action='BUY', account='DU2280941')",MMP
+479,"Stock(symbol='MNST', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=487, clientId=10, action='SELL', account='DU2280941')",MNST
+480,"Stock(symbol='MO', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=488, clientId=10, permId=666916142, action='SELL', account='DU2280941')",MO
+481,"Stock(symbol='MOMO', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=489, clientId=10, action='SELL', account='DU2280941')",MOMO
+482,"Stock(symbol='MORN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=490, clientId=10, action='BUY', account='DU2280941')",MORN
+483,"Stock(symbol='MOS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=491, clientId=10, permId=666916145, action='BUY', account='DU2280941')",MOS
+484,"Stock(symbol='MPC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=492, clientId=10, permId=666916146, action='BUY', account='DU2280941')",MPC
+485,"Stock(symbol='MPLX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=493, clientId=10, permId=666916147, action='BUY', account='DU2280941')",MPLX
+486,"Stock(symbol='MPW', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=494, clientId=10, permId=666916148, action='SELL', account='DU2280941')",MPW
+487,"Stock(symbol='MPWR', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=495, clientId=10, action='BUY', account='DU2280941')",MPWR
+488,"Stock(symbol='MRNA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=496, clientId=10, action='BUY', account='DU2280941')",MRNA
+489,"Stock(symbol='MRO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=497, clientId=10, permId=666916149, action='BUY', account='DU2280941')",MRO
+490,"Stock(symbol='MRVL', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=498, clientId=10, action='BUY', account='DU2280941')",MRVL
+491,"Stock(symbol='MS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=499, clientId=10, permId=666916150, action='BUY', account='DU2280941')",MS
+492,"Stock(symbol='MSCI', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=500, clientId=10, permId=666916151, action='SELL', account='DU2280941')",MSCI
+493,"Stock(symbol='MSI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=501, clientId=10, permId=666916153, action='BUY', account='DU2280941')",MSI
+494,"Stock(symbol='MT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=502, clientId=10, permId=666916154, action='BUY', account='DU2280941')",MT
+495,"Stock(symbol='MTB', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=503, clientId=10, permId=666916155, action='BUY', account='DU2280941')",MTB
+496,"Stock(symbol='MTN', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=504, clientId=10, permId=666916156, action='SELL', account='DU2280941')",MTN
+497,"Stock(symbol='MU', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=505, clientId=10, action='BUY', account='DU2280941')",MU
+498,"Stock(symbol='MXIM', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=506, clientId=10, action='BUY', account='DU2280941')",MXIM
+499,"Stock(symbol='MYL', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=507, clientId=10, action='SELL', account='DU2280941')",MYL
+500,"Stock(symbol='NBL', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=508, clientId=10, action='BUY', account='DU2280941')",NBL
+501,"Stock(symbol='NCLH', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=509, clientId=10, permId=666916158, action='BUY', account='DU2280941')",NCLH
+502,"Stock(symbol='NDAQ', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=510, clientId=10, action='SELL', account='DU2280941')",NDAQ
+503,"Stock(symbol='NDSN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=511, clientId=10, action='BUY', account='DU2280941')",NDSN
+504,"Stock(symbol='NEM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=512, clientId=10, permId=666916160, action='BUY', account='DU2280941')",NEM
+505,"Stock(symbol='NI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=513, clientId=10, permId=666916161, action='BUY', account='DU2280941')",NI
+506,"Stock(symbol='NKE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=514, clientId=10, permId=666916162, action='BUY', account='DU2280941')",NKE
+507,"Stock(symbol='NLOK', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=515, clientId=10, action='BUY', account='DU2280941')",NLOK
+508,"Stock(symbol='NLSN', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=516, clientId=10, permId=666916163, action='SELL', account='DU2280941')",NLSN
+509,"Stock(symbol='NLY', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=517, clientId=10, permId=666916164, action='BUY', account='DU2280941')",NLY
+510,"Stock(symbol='NMR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=518, clientId=10, permId=666916165, action='SELL', account='DU2280941')",NMR
+511,"Stock(symbol='NNN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=519, clientId=10, permId=666916166, action='BUY', account='DU2280941')",NNN
+512,"Stock(symbol='NOK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=520, clientId=10, permId=666916167, action='BUY', account='DU2280941')",NOK
+513,"Stock(symbol='NOV', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=521, clientId=10, permId=666916168, action='SELL', account='DU2280941')",NOV
+514,"Stock(symbol='NOW', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=522, clientId=10, permId=666916169, action='BUY', account='DU2280941')",NOW
+515,"Stock(symbol='NRG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=523, clientId=10, permId=666916170, action='BUY', account='DU2280941')",NRG
+516,"Stock(symbol='NRZ', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=524, clientId=10, permId=666916171, action='BUY', account='DU2280941')",NRZ
+517,"Stock(symbol='NSC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=525, clientId=10, permId=666916172, action='BUY', account='DU2280941')",NSC
+518,"Stock(symbol='NTAP', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=526, clientId=10, action='BUY', account='DU2280941')",NTAP
+519,"Stock(symbol='NTCO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=527, clientId=10, permId=666916174, action='BUY', account='DU2280941')",NTCO
+520,"Stock(symbol='NTES', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=528, clientId=10, action='BUY', account='DU2280941')",NTES
+521,"Stock(symbol='NTNX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=529, clientId=10, action='BUY', account='DU2280941')",NTNX
+522,"Stock(symbol='NTR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=530, clientId=10, permId=666916175, action='BUY', account='DU2280941')",NTR
+523,"Stock(symbol='NTRS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=531, clientId=10, action='SELL', account='DU2280941')",NTRS
+524,"Stock(symbol='NUAN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=532, clientId=10, action='SELL', account='DU2280941')",NUAN
+525,"Stock(symbol='NUE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=533, clientId=10, permId=666916178, action='BUY', account='DU2280941')",NUE
+526,"Stock(symbol='NVCR', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=534, clientId=10, action='SELL', account='DU2280941')",NVCR
+527,"Stock(symbol='NVDA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=535, clientId=10, action='BUY', account='DU2280941')",NVDA
+528,"Stock(symbol='NVO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=536, clientId=10, permId=666916183, action='BUY', account='DU2280941')",NVO
+529,"Stock(symbol='NVS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=537, clientId=10, permId=666916184, action='SELL', account='DU2280941')",NVS
+530,"Stock(symbol='NWL', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=538, clientId=10, action='BUY', account='DU2280941')",NWL
+531,"Stock(symbol='NWSA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=539, clientId=10, action='BUY', account='DU2280941')",NWSA
+532,"Stock(symbol='NYT', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=540, clientId=10, permId=666916185, action='SELL', account='DU2280941')",NYT
+533,"Stock(symbol='O', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=541, clientId=10, permId=666916186, action='SELL', account='DU2280941')",O
+534,"Stock(symbol='OC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=542, clientId=10, permId=666916187, action='BUY', account='DU2280941')",OC
+535,"Stock(symbol='OGE', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=543, clientId=10, permId=666916188, action='SELL', account='DU2280941')",OGE
+536,"Stock(symbol='OHI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=544, clientId=10, permId=666916190, action='BUY', account='DU2280941')",OHI
+537,"Stock(symbol='OKE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=545, clientId=10, permId=666916191, action='BUY', account='DU2280941')",OKE
+538,"Stock(symbol='OKTA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=546, clientId=10, action='BUY', account='DU2280941')",OKTA
+539,"Stock(symbol='OLED', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=547, clientId=10, action='BUY', account='DU2280941')",OLED
+540,"Stock(symbol='OMC', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=548, clientId=10, permId=666916194, action='SELL', account='DU2280941')",OMC
+541,"Stock(symbol='OMF', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=549, clientId=10, permId=666916195, action='BUY', account='DU2280941')",OMF
+542,"Stock(symbol='ON', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=550, clientId=10, action='BUY', account='DU2280941')",ON
+543,"Stock(symbol='ORAN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=551, clientId=10, permId=666916196, action='BUY', account='DU2280941')",ORAN
+544,"Stock(symbol='ORCL', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=552, clientId=10, permId=666916198, action='SELL', account='DU2280941')",ORCL
+545,"Stock(symbol='ORI', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=553, clientId=10, permId=666916200, action='SELL', account='DU2280941')",ORI
+546,"Stock(symbol='OTEX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=554, clientId=10, action='SELL', account='DU2280941')",OTEX
+547,"Stock(symbol='OXY', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=555, clientId=10, permId=666916201, action='BUY', account='DU2280941')",OXY
+548,"Stock(symbol='PAA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=556, clientId=10, permId=666916202, action='BUY', account='DU2280941')",PAA
+549,"Stock(symbol='PAC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=557, clientId=10, permId=666916203, action='BUY', account='DU2280941')",PAC
+550,"Stock(symbol='PAGS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=558, clientId=10, permId=666916204, action='BUY', account='DU2280941')",PAGS
+551,"Stock(symbol='PANW', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=559, clientId=10, permId=666916205, action='SELL', account='DU2280941')",PANW
+552,"Stock(symbol='PAYC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=560, clientId=10, permId=666916206, action='BUY', account='DU2280941')",PAYC
+553,"Stock(symbol='PAYX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=561, clientId=10, action='BUY', account='DU2280941')",PAYX
+554,"Stock(symbol='PB', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=562, clientId=10, permId=666916207, action='BUY', account='DU2280941')",PB
+555,"Stock(symbol='PBA', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=563, clientId=10, permId=666916208, action='SELL', account='DU2280941')",PBA
+556,"Stock(symbol='PBCT', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=564, clientId=10, action='SELL', account='DU2280941')",PBCT
+557,"Stock(symbol='PBR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=565, clientId=10, permId=666916209, action='BUY', account='DU2280941')",PBR
+558,"Stock(symbol='PCAR', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=566, clientId=10, action='BUY', account='DU2280941')",PCAR
+559,"Stock(symbol='PCG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=567, clientId=10, permId=666916210, action='BUY', account='DU2280941')",PCG
+560,"Stock(symbol='PDD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=568, clientId=10, action='BUY', account='DU2280941')",PDD
+561,"Stock(symbol='PE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=569, clientId=10, permId=666916211, action='BUY', account='DU2280941')",PE
+562,"Stock(symbol='PEAK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=570, clientId=10, permId=666916213, action='BUY', account='DU2280941')",PEAK
+563,"Stock(symbol='PEG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=571, clientId=10, permId=666916217, action='BUY', account='DU2280941')",PEG
+564,"Stock(symbol='PEGA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=572, clientId=10, action='BUY', account='DU2280941')",PEGA
+565,"Stock(symbol='PEN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=573, clientId=10, permId=666916218, action='BUY', account='DU2280941')",PEN
+566,"Stock(symbol='PFE', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=574, clientId=10, permId=666916219, action='SELL', account='DU2280941')",PFE
+567,"Stock(symbol='PFG', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=575, clientId=10, action='BUY', account='DU2280941')",PFG
+568,"Stock(symbol='PFPT', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=576, clientId=10, action='BUY', account='DU2280941')",PFPT
+569,"Stock(symbol='PGR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=577, clientId=10, permId=666916220, action='SELL', account='DU2280941')",PGR
+570,"Stock(symbol='PH', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=578, clientId=10, permId=666916221, action='BUY', account='DU2280941')",PH
+571,"Stock(symbol='PHM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=579, clientId=10, permId=666916222, action='BUY', account='DU2280941')",PHM
+572,"Stock(symbol='PINS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=580, clientId=10, permId=666916223, action='SELL', account='DU2280941')",PINS
+573,"Stock(symbol='PKI', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=581, clientId=10, permId=666916224, action='SELL', account='DU2280941')",PKI
+574,"Stock(symbol='PKX', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=582, clientId=10, permId=666916225, action='SELL', account='DU2280941')",PKX
+575,"Stock(symbol='PLAN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=583, clientId=10, permId=666916226, action='BUY', account='DU2280941')",PLAN
+576,"Stock(symbol='PLD', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=584, clientId=10, permId=666916227, action='BUY', account='DU2280941')",PLD
+577,"Stock(symbol='PLNT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=585, clientId=10, permId=666916228, action='BUY', account='DU2280941')",PLNT
+578,"Stock(symbol='PM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=586, clientId=10, permId=666916229, action='BUY', account='DU2280941')",PM
+579,"Stock(symbol='PNC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=587, clientId=10, permId=666916230, action='BUY', account='DU2280941')",PNC
+580,"Stock(symbol='PNW', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=588, clientId=10, permId=666916231, action='SELL', account='DU2280941')",PNW
+581,"Stock(symbol='PODD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=589, clientId=10, action='SELL', account='DU2280941')",PODD
+582,"Stock(symbol='POOL', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=590, clientId=10, action='BUY', account='DU2280941')",POOL
+583,"Stock(symbol='POST', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=591, clientId=10, permId=666916232, action='BUY', account='DU2280941')",POST
+584,"Stock(symbol='PPC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=592, clientId=10, action='BUY', account='DU2280941')",PPC
+585,"Stock(symbol='PPG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=593, clientId=10, permId=666916233, action='BUY', account='DU2280941')",PPG
+586,"Stock(symbol='PRAH', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=594, clientId=10, action='BUY', account='DU2280941')",PRAH
+587,"Stock(symbol='PRGO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=595, clientId=10, permId=666916234, action='BUY', account='DU2280941')",PRGO
+588,"Stock(symbol='PRU', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=596, clientId=10, permId=666916235, action='BUY', account='DU2280941')",PRU
+589,"Stock(symbol='PSA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=597, clientId=10, permId=666916236, action='BUY', account='DU2280941')",PSA
+590,"Stock(symbol='PSX', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=598, clientId=10, action='SELL', account='DU2280941')",PSX
+591,"Stock(symbol='PSXP', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=599, clientId=10, action='SELL', account='DU2280941')",PSXP
+592,"Stock(symbol='PTC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=600, clientId=10, action='BUY', account='DU2280941')",PTC
+593,"Stock(symbol='PTON', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=601, clientId=10, action='BUY', account='DU2280941')",PTON
+594,"Stock(symbol='PTR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=602, clientId=10, action='BUY', account='DU2280941')",PTR
+595,"Stock(symbol='PUK', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=603, clientId=10, action='SELL', account='DU2280941')",PUK
+596,"Stock(symbol='PVH', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=604, clientId=10, action='BUY', account='DU2280941')",PVH
+597,"Stock(symbol='PXD', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=605, clientId=10, action='SELL', account='DU2280941')",PXD
+598,"Stock(symbol='QCOM', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=606, clientId=10, action='SELL', account='DU2280941')",QCOM
+599,"Stock(symbol='QGEN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=607, clientId=10, action='BUY', account='DU2280941')",QGEN
+600,"Stock(symbol='QRVO', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=608, clientId=10, action='BUY', account='DU2280941')",QRVO
+601,"Stock(symbol='QSR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=609, clientId=10, action='BUY', account='DU2280941')",QSR
+602,"Stock(symbol='RACE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=610, clientId=10, action='BUY', account='DU2280941')",RACE
+603,"Stock(symbol='RBS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=611, clientId=10, action='BUY', account='DU2280941')",RBS
+604,"Stock(symbol='RCL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=612, clientId=10, action='BUY', account='DU2280941')",RCL
+605,"Stock(symbol='RDY', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=613, clientId=10, action='SELL', account='DU2280941')",RDY
+606,"Stock(symbol='RE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=614, clientId=10, action='BUY', account='DU2280941')",RE
+607,"Stock(symbol='REG', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=615, clientId=10, action='BUY', account='DU2280941')",REG
+608,"Stock(symbol='RELX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=616, clientId=10, action='BUY', account='DU2280941')",RELX
+609,"Stock(symbol='RETA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=617, clientId=10, action='BUY', account='DU2280941')",RETA
+610,"Stock(symbol='RF', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=618, clientId=10, action='SELL', account='DU2280941')",RF
+611,"Stock(symbol='RGA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=619, clientId=10, action='BUY', account='DU2280941')",RGA
+612,"Stock(symbol='RGLD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=620, clientId=10, action='BUY', account='DU2280941')",RGLD
+613,"Stock(symbol='RHI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=621, clientId=10, action='BUY', account='DU2280941')",RHI
+614,"Stock(symbol='RIO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=622, clientId=10, action='BUY', account='DU2280941')",RIO
+615,"Stock(symbol='RJF', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=623, clientId=10, action='BUY', account='DU2280941')",RJF
+616,"Stock(symbol='RL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=624, clientId=10, action='BUY', account='DU2280941')",RL
+617,"Stock(symbol='RMD', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=625, clientId=10, action='SELL', account='DU2280941')",RMD
+618,"Stock(symbol='RNG', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=626, clientId=10, action='SELL', account='DU2280941')",RNG
+619,"Stock(symbol='RNR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=627, clientId=10, action='BUY', account='DU2280941')",RNR
+620,"Stock(symbol='ROK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=628, clientId=10, action='BUY', account='DU2280941')",ROK
+621,"Stock(symbol='ROKU', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=629, clientId=10, action='SELL', account='DU2280941')",ROKU
+622,"Stock(symbol='ROL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=630, clientId=10, action='BUY', account='DU2280941')",ROL
+623,"Stock(symbol='ROST', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=631, clientId=10, action='BUY', account='DU2280941')",ROST
+624,"Stock(symbol='RPM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=632, clientId=10, action='BUY', account='DU2280941')",RPM
+625,"Stock(symbol='RSG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=633, clientId=10, action='BUY', account='DU2280941')",RSG
+626,"Stock(symbol='RY', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=634, clientId=10, action='SELL', account='DU2280941')",RY
+627,"Stock(symbol='SAN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=635, clientId=10, action='BUY', account='DU2280941')",SAN
+628,"Stock(symbol='SBAC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=636, clientId=10, action='BUY', account='DU2280941')",SBAC
+629,"Stock(symbol='SBNY', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=637, clientId=10, action='BUY', account='DU2280941')",SBNY
+630,"Stock(symbol='SBS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=638, clientId=10, action='SELL', account='DU2280941')",SBS
+631,"Stock(symbol='SBUX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=639, clientId=10, action='SELL', account='DU2280941')",SBUX
+632,"Stock(symbol='SC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=640, clientId=10, action='BUY', account='DU2280941')",SC
+633,"Stock(symbol='SCCO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=641, clientId=10, action='BUY', account='DU2280941')",SCCO
+634,"Stock(symbol='SCHW', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=642, clientId=10, action='BUY', account='DU2280941')",SCHW
+635,"Stock(symbol='SCI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=643, clientId=10, action='BUY', account='DU2280941')",SCI
+636,"Stock(symbol='SE', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=644, clientId=10, action='SELL', account='DU2280941')",SE
+637,"Stock(symbol='SEIC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=645, clientId=10, action='SELL', account='DU2280941')",SEIC
+638,"Stock(symbol='SHOP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=646, clientId=10, action='BUY', account='DU2280941')",SHOP
+639,"Stock(symbol='SIRI', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=647, clientId=10, action='BUY', account='DU2280941')",SIRI
+640,"Stock(symbol='SJM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=648, clientId=10, action='BUY', account='DU2280941')",SJM
+641,"Stock(symbol='SKM', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=649, clientId=10, action='SELL', account='DU2280941')",SKM
+642,"Stock(symbol='SLB', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=650, clientId=10, action='SELL', account='DU2280941')",SLB
+643,"Stock(symbol='SLF', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=651, clientId=10, action='BUY', account='DU2280941')",SLF
+644,"Stock(symbol='SLG', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=652, clientId=10, action='SELL', account='DU2280941')",SLG
+645,"Stock(symbol='SLMBP', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=653, clientId=10, action='SELL', account='DU2280941')",SLMBP
+646,"Stock(symbol='SMFG', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=654, clientId=10, action='BUY', account='DU2280941')",SMFG
+647,"Stock(symbol='SMG', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=655, clientId=10, action='SELL', account='DU2280941')",SMG
+648,"Stock(symbol='SNA', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=656, clientId=10, action='SELL', account='DU2280941')",SNA
+649,"Stock(symbol='SNAP', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=657, clientId=10, action='SELL', account='DU2280941')",SNAP
+650,"Stock(symbol='SNN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=658, clientId=10, action='BUY', account='DU2280941')",SNN
+651,"Stock(symbol='SNP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=659, clientId=10, action='BUY', account='DU2280941')",SNP
+652,"Stock(symbol='SNPS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=660, clientId=10, action='BUY', account='DU2280941')",SNPS
+653,"Stock(symbol='SNX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=661, clientId=10, action='BUY', account='DU2280941')",SNX
+654,"Stock(symbol='SNY', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=662, clientId=10, action='BUY', account='DU2280941')",SNY
+655,"Stock(symbol='SO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=663, clientId=10, action='BUY', account='DU2280941')",SO
+656,"Stock(symbol='SPG', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=664, clientId=10, action='SELL', account='DU2280941')",SPG
+657,"Stock(symbol='SPLK', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=665, clientId=10, action='BUY', account='DU2280941')",SPLK
+658,"Stock(symbol='SPOT', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=666, clientId=10, action='SELL', account='DU2280941')",SPOT
+659,"Stock(symbol='SPR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=667, clientId=10, action='BUY', account='DU2280941')",SPR
+660,"Stock(symbol='SQ', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=668, clientId=10, action='BUY', account='DU2280941')",SQ
+661,"Stock(symbol='SQM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=669, clientId=10, action='BUY', account='DU2280941')",SQM
+662,"Stock(symbol='SRE', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=670, clientId=10, action='BUY', account='DU2280941')",SRE
+663,"Stock(symbol='SRPT', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=671, clientId=10, action='SELL', account='DU2280941')",SRPT
+664,"Stock(symbol='SSL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=672, clientId=10, action='BUY', account='DU2280941')",SSL
+665,"Stock(symbol='ST', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=673, clientId=10, action='BUY', account='DU2280941')",ST
+666,"Stock(symbol='STNE', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=674, clientId=10, action='SELL', account='DU2280941')",STNE
+667,"Stock(symbol='STOR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=675, clientId=10, action='SELL', account='DU2280941')",STOR
+668,"Stock(symbol='STT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=676, clientId=10, action='BUY', account='DU2280941')",STT
+669,"Stock(symbol='STWD', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=677, clientId=10, action='BUY', account='DU2280941')",STWD
+670,"Stock(symbol='STX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=678, clientId=10, action='SELL', account='DU2280941')",STX
+671,"Stock(symbol='STZ', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=679, clientId=10, action='SELL', account='DU2280941')",STZ
+672,"Stock(symbol='SU', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=680, clientId=10, action='BUY', account='DU2280941')",SU
+673,"Stock(symbol='SUI', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=681, clientId=10, action='SELL', account='DU2280941')",SUI
+674,"Stock(symbol='SUZ', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=682, clientId=10, action='SELL', account='DU2280941')",SUZ
+675,"Stock(symbol='SWK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=683, clientId=10, action='BUY', account='DU2280941')",SWK
+676,"Stock(symbol='SWKS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=684, clientId=10, action='BUY', account='DU2280941')",SWKS
+677,"Stock(symbol='SYNH', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=685, clientId=10, action='SELL', account='DU2280941')",SYNH
+678,"Stock(symbol='TAL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=686, clientId=10, action='BUY', account='DU2280941')",TAL
+679,"Stock(symbol='TAP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=687, clientId=10, action='BUY', account='DU2280941')",TAP
+680,"Stock(symbol='TCF', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=688, clientId=10, action='BUY', account='DU2280941')",TCF
+681,"Stock(symbol='TCOM', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=689, clientId=10, action='BUY', account='DU2280941')",TCOM
+682,"Stock(symbol='TD', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=690, clientId=10, action='BUY', account='DU2280941')",TD
+683,"Stock(symbol='TDOC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=691, clientId=10, action='BUY', account='DU2280941')",TDOC
+684,"Stock(symbol='TDY', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=692, clientId=10, action='SELL', account='DU2280941')",TDY
+685,"Stock(symbol='TEAM', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=693, clientId=10, action='BUY', account='DU2280941')",TEAM
+686,"Stock(symbol='TECH', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=694, clientId=10, action='BUY', account='DU2280941')",TECH
+687,"Stock(symbol='TECK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=695, clientId=10, action='BUY', account='DU2280941')",TECK
+688,"Stock(symbol='TEF', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=696, clientId=10, action='BUY', account='DU2280941')",TEF
+689,"Stock(symbol='TEL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=697, clientId=10, action='BUY', account='DU2280941')",TEL
+690,"Stock(symbol='TEVA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=698, clientId=10, action='BUY', account='DU2280941')",TEVA
+691,"Stock(symbol='TFC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=699, clientId=10, action='BUY', account='DU2280941')",TFC
+692,"Stock(symbol='TGT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=700, clientId=10, action='BUY', account='DU2280941')",TGT
+693,"Stock(symbol='TIF', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=701, clientId=10, action='BUY', account='DU2280941')",TIF
+694,"Stock(symbol='TLK', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=702, clientId=10, action='SELL', account='DU2280941')",TLK
+695,"Stock(symbol='TME', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=703, clientId=10, action='SELL', account='DU2280941')",TME
+696,"Stock(symbol='TMO', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=704, clientId=10, action='SELL', account='DU2280941')",TMO
+697,"Stock(symbol='TOL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=705, clientId=10, action='BUY', account='DU2280941')",TOL
+698,"Stock(symbol='TPR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=706, clientId=10, action='BUY', account='DU2280941')",TPR
+699,"Stock(symbol='TRGP', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=707, clientId=10, action='BUY', account='DU2280941')",TRGP
+700,"Stock(symbol='TRMB', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=708, clientId=10, action='BUY', account='DU2280941')",TRMB
+701,"Stock(symbol='TROW', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=709, clientId=10, action='BUY', account='DU2280941')",TROW
+702,"Stock(symbol='TRU', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=710, clientId=10, action='BUY', account='DU2280941')",TRU
+703,"Stock(symbol='TRV', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=711, clientId=10, action='BUY', account='DU2280941')",TRV
+704,"Stock(symbol='TS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=712, clientId=10, action='BUY', account='DU2280941')",TS
+705,"Stock(symbol='TSCO', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=713, clientId=10, action='SELL', account='DU2280941')",TSCO
+706,"Stock(symbol='TSLA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=714, clientId=10, action='BUY', account='DU2280941')",TSLA
+707,"Stock(symbol='TSN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=715, clientId=10, action='BUY', account='DU2280941')",TSN
+708,"Stock(symbol='TSU', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=716, clientId=10, action='BUY', account='DU2280941')",TSU
+709,"Stock(symbol='TTC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=717, clientId=10, action='BUY', account='DU2280941')",TTC
+710,"Stock(symbol='TTD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=718, clientId=10, action='BUY', account='DU2280941')",TTD
+711,"Stock(symbol='TTM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=719, clientId=10, action='BUY', account='DU2280941')",TTM
+712,"Stock(symbol='TTWO', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=720, clientId=10, action='BUY', account='DU2280941')",TTWO
+713,"Stock(symbol='TV', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=721, clientId=10, action='BUY', account='DU2280941')",TV
+714,"Stock(symbol='TW', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=722, clientId=10, action='SELL', account='DU2280941')",TW
+715,"Stock(symbol='TWLO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=723, clientId=10, action='BUY', account='DU2280941')",TWLO
+716,"Stock(symbol='TWTR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=724, clientId=10, action='SELL', account='DU2280941')",TWTR
+717,"Stock(symbol='TXG', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=725, clientId=10, action='BUY', account='DU2280941')",TXG
+718,"Stock(symbol='TXN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=726, clientId=10, action='SELL', account='DU2280941')",TXN
+719,"Stock(symbol='TXT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=727, clientId=10, action='BUY', account='DU2280941')",TXT
+720,"Stock(symbol='TYL', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=728, clientId=10, action='SELL', account='DU2280941')",TYL
+721,"Stock(symbol='UAA', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=729, clientId=10, action='BUY', account='DU2280941')",UAA
+722,"Stock(symbol='UAL', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=730, clientId=10, action='SELL', account='DU2280941')",UAL
+723,"Stock(symbol='UBER', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=731, clientId=10, action='BUY', account='DU2280941')",UBER
+724,"Stock(symbol='UBS', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=732, clientId=10, action='BUY', account='DU2280941')",UBS
+725,"Stock(symbol='UDR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=733, clientId=10, action='BUY', account='DU2280941')",UDR
+726,"Stock(symbol='UGI', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=734, clientId=10, action='SELL', account='DU2280941')",UGI
+727,"Stock(symbol='UHS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=735, clientId=10, action='SELL', account='DU2280941')",UHS
+728,"Stock(symbol='UMC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=736, clientId=10, action='BUY', account='DU2280941')",UMC
+729,"Stock(symbol='UPS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=737, clientId=10, action='SELL', account='DU2280941')",UPS
+730,"Stock(symbol='URI', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=738, clientId=10, action='SELL', account='DU2280941')",URI
+731,"Stock(symbol='USB', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=739, clientId=10, action='BUY', account='DU2280941')",USB
+732,"Stock(symbol='USFD', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=740, clientId=10, action='BUY', account='DU2280941')",USFD
+733,"Stock(symbol='VALE', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=741, clientId=10, action='SELL', account='DU2280941')",VALE
+734,"Stock(symbol='VAR', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=742, clientId=10, action='BUY', account='DU2280941')",VAR
+735,"Stock(symbol='VEDL', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=743, clientId=10, action='SELL', account='DU2280941')",VEDL
+736,"Stock(symbol='VEEV', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=744, clientId=10, action='SELL', account='DU2280941')",VEEV
+737,"Stock(symbol='VER', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=745, clientId=10, action='SELL', account='DU2280941')",VER
+738,"Stock(symbol='VFC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=746, clientId=10, action='BUY', account='DU2280941')",VFC
+739,"Stock(symbol='VIAC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=747, clientId=10, action='BUY', account='DU2280941')",VIAC
+740,"Stock(symbol='VICI', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=748, clientId=10, action='BUY', account='DU2280941')",VICI
+741,"Stock(symbol='VIPS', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=749, clientId=10, action='SELL', account='DU2280941')",VIPS
+742,"Stock(symbol='VIV', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=750, clientId=10, action='SELL', account='DU2280941')",VIV
+743,"Stock(symbol='VLO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=751, clientId=10, action='BUY', account='DU2280941')",VLO
+744,"Stock(symbol='VMC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=752, clientId=10, action='BUY', account='DU2280941')",VMC
+745,"Stock(symbol='VNO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=753, clientId=10, action='BUY', account='DU2280941')",VNO
+746,"Stock(symbol='VOD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=754, clientId=10, action='BUY', account='DU2280941')",VOD
+747,"Stock(symbol='VOYA', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=755, clientId=10, action='SELL', account='DU2280941')",VOYA
+748,"Stock(symbol='VRSK', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=756, clientId=10, action='BUY', account='DU2280941')",VRSK
+749,"Stock(symbol='VRSN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=757, clientId=10, action='BUY', account='DU2280941')",VRSN
+750,"Stock(symbol='VST', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=758, clientId=10, action='SELL', account='DU2280941')",VST
+751,"Stock(symbol='VZ', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=759, clientId=10, action='BUY', account='DU2280941')",VZ
+752,"Stock(symbol='W', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=760, clientId=10, action='BUY', account='DU2280941')",W
+753,"Stock(symbol='WAB', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=761, clientId=10, action='BUY', account='DU2280941')",WAB
+754,"Stock(symbol='WAT', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=762, clientId=10, action='SELL', account='DU2280941')",WAT
+755,"Stock(symbol='WB', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=763, clientId=10, action='BUY', account='DU2280941')",WB
+756,"Stock(symbol='WBA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=764, clientId=10, action='BUY', account='DU2280941')",WBA
+757,"Stock(symbol='WBK', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=765, clientId=10, action='SELL', account='DU2280941')",WBK
+758,"Stock(symbol='WCN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=766, clientId=10, action='BUY', account='DU2280941')",WCN
+759,"Stock(symbol='WDAY', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=767, clientId=10, action='SELL', account='DU2280941')",WDAY
+760,"Stock(symbol='WDC', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=768, clientId=10, action='BUY', account='DU2280941')",WDC
+761,"Stock(symbol='WEC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=769, clientId=10, action='BUY', account='DU2280941')",WEC
+762,"Stock(symbol='WELL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=770, clientId=10, action='BUY', account='DU2280941')",WELL
+763,"Stock(symbol='WES', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=771, clientId=10, action='SELL', account='DU2280941')",WES
+764,"Stock(symbol='WEX', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=772, clientId=10, action='SELL', account='DU2280941')",WEX
+765,"Stock(symbol='WF', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=773, clientId=10, action='SELL', account='DU2280941')",WF
+766,"Stock(symbol='WFC', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=774, clientId=10, action='SELL', account='DU2280941')",WFC
+767,"Stock(symbol='WHR', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=775, clientId=10, action='SELL', account='DU2280941')",WHR
+768,"Stock(symbol='WIT', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=776, clientId=10, action='BUY', account='DU2280941')",WIT
+769,"Stock(symbol='WIX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=777, clientId=10, action='SELL', account='DU2280941')",WIX
+770,"Stock(symbol='WLK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=778, clientId=10, action='BUY', account='DU2280941')",WLK
+771,"Stock(symbol='WLTW', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=779, clientId=10, action='SELL', account='DU2280941')",WLTW
+772,"Stock(symbol='WM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=780, clientId=10, action='BUY', account='DU2280941')",WM
+773,"Stock(symbol='WMB', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=781, clientId=10, action='SELL', account='DU2280941')",WMB
+774,"Stock(symbol='WORK', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=782, clientId=10, action='BUY', account='DU2280941')",WORK
+775,"Stock(symbol='WPC', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=783, clientId=10, action='SELL', account='DU2280941')",WPC
+776,"Stock(symbol='WPM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=784, clientId=10, action='BUY', account='DU2280941')",WPM
+777,"Stock(symbol='WRK', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=785, clientId=10, action='SELL', account='DU2280941')",WRK
+778,"Stock(symbol='WU', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=786, clientId=10, action='SELL', account='DU2280941')",WU
+779,"Stock(symbol='WUBA', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=787, clientId=10, action='SELL', account='DU2280941')",WUBA
+780,"Stock(symbol='WWD', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=788, clientId=10, action='BUY', account='DU2280941')",WWD
+781,"Stock(symbol='WY', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=789, clientId=10, action='BUY', account='DU2280941')",WY
+782,"Stock(symbol='WYNN', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=790, clientId=10, action='BUY', account='DU2280941')",WYNN
+783,"Stock(symbol='XEL', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=791, clientId=10, action='SELL', account='DU2280941')",XEL
+784,"Stock(symbol='XLNX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=792, clientId=10, action='BUY', account='DU2280941')",XLNX
+785,"Stock(symbol='XOM', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=793, clientId=10, action='SELL', account='DU2280941')",XOM
+786,"Stock(symbol='XP', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=794, clientId=10, action='SELL', account='DU2280941')",XP
+787,"Stock(symbol='XPO', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=795, clientId=10, action='SELL', account='DU2280941')",XPO
+788,"Stock(symbol='XRAY', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=796, clientId=10, action='BUY', account='DU2280941')",XRAY
+789,"Stock(symbol='XRX', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=797, clientId=10, action='BUY', account='DU2280941')",XRX
+790,"Stock(symbol='XYL', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=798, clientId=10, action='BUY', account='DU2280941')",XYL
+791,"Stock(symbol='YNDX', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=799, clientId=10, action='SELL', account='DU2280941')",YNDX
+792,"Stock(symbol='YUM', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=800, clientId=10, action='BUY', account='DU2280941')",YUM
+793,"Stock(symbol='YUMC', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=801, clientId=10, action='BUY', account='DU2280941')",YUMC
+794,"Stock(symbol='Z', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=802, clientId=10, action='BUY', account='DU2280941')",Z
+795,"Stock(symbol='ZBH', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=803, clientId=10, action='BUY', account='DU2280941')",ZBH
+796,"Stock(symbol='ZEN', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=804, clientId=10, action='BUY', account='DU2280941')",ZEN
+797,"Stock(symbol='ZM', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=805, clientId=10, action='SELL', account='DU2280941')",ZM
+798,"Stock(symbol='ZNGA', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",BUY,"MarketOrder(orderId=806, clientId=10, action='BUY', account='DU2280941')",ZNGA
+799,"Stock(symbol='ZNH', exchange='SMART', primaryExchange='NYSE', currency='USD')",SELL,"MarketOrder(orderId=807, clientId=10, action='SELL', account='DU2280941')",ZNH
+800,"Stock(symbol='ZS', exchange='SMART', primaryExchange='NASDAQ', currency='USD')",SELL,"MarketOrder(orderId=808, clientId=10, action='SELL', account='DU2280941')",ZS
+801,"Stock(symbol='ZTO', exchange='SMART', primaryExchange='NYSE', currency='USD')",BUY,"MarketOrder(orderId=809, clientId=10, action='BUY', account='DU2280941')",ZTO

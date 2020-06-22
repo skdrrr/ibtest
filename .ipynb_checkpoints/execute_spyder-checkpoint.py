@@ -27,7 +27,7 @@ acc_num = 'DU1870227'
 
 #Connect to IB Gateway
 ib = IB()
-ib.connect('127.0.0.1', 7497, clientId=7,timeout=100)
+ib.connect('127.0.0.1', 7497, clientId=2,timeout=100)
 
 
 
@@ -91,12 +91,12 @@ for element in target_position.columns:
 
         if direction!="HOLD":
             #Andy - changed to element as no stock variable set
-            if(element not in excluse):
+#            if(element not in excluse):
                 try:
                     contract = Stock(element, 'SMART', 'USD', primaryExchange=ExchangeData.loc[element]["primaryExchange"])
                     order = MarketOrder(direction, trade_amount,account=acc_num) #,account=acc_num
                     trade = ib.placeOrder(contract, order)
-                    ib.sleep(0.2)
+                    ib.sleep(0.2) # (0.2)
                     print(contract)
                     print(order)
                 except:

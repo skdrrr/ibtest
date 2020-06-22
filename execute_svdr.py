@@ -27,7 +27,7 @@ acc_num = 'DU1870227'
 
 #Connect to IB Gateway
 ib = IB()
-ib.connect('127.0.0.1', 7497, clientId=7,timeout=100)
+ib.connect('127.0.0.1', 7497, clientId=11,timeout=100)
 
 
 
@@ -54,7 +54,6 @@ StrategyDay = str(target_position.index[0].year)+"-"+format_days(str(target_posi
 CurrentPortfolio = pd.DataFrame()
 for element in ib.positions(account=acc_num):
     symbol = str(element).split("symbol='")[1].split("'")[0]
-    print(symbol)
     position =str(element).split("position=")[1].split(",")[0]
     list_row = {"symbol":symbol, "position":position}
     
@@ -67,13 +66,14 @@ CurrentPortfolio.index = CurrentPortfolio["symbol"]
 
 for element in target_position.columns:
     print(element,"TARGET")
-    amount_portfolio = CurrentPortfolio[CurrentPortfolio.index==element]["position"]
-    new_amount_portfolio = target_position[target_position.index==StrategyDay][element]
+    try: 
+        amount_portfolio = CurrentPortfolio[CurrentPortfolio.index==element]["position"][0]
+        new_amount_portfolio = target_position[target_position.index==StrategyDay][element][0]
 
     
     # ROUNDING
     #Andy - added try to handle NaN amount
-    try: 
+    
         amount_portfolio = int(round(float(amount_portfolio)))
         new_amount_portfolio = int(round(float(new_amount_portfolio)))
         print("rounding done")
@@ -88,18 +88,20 @@ for element in target_position.columns:
         if new_amount_portfolio==amount_portfolio:
             direction = "HOLD"
             trade_amount = 0
+            print(element,"HOLD")
 
         if direction!="HOLD":
             #Andy - changed to element as no stock variable set
             if(element not in excluse):
                 try:
                     contract = Stock(element, 'SMART', 'USD', primaryExchange=ExchangeData.loc[element]["primaryExchange"])
-                    order = MarketOrder(direction, trade_amount,account=acc_num) #,account=acc_num
+                    order = MarketOrder(direction, trade_amount) #,account=acc_num
                     trade = ib.placeOrder(contract, order)
                     ib.sleep(0.2)
                     print(contract)
                     print(order)
                 except:
                     print("NOT EXECUTED",element)
+                    
     except:
         print("NOT EXECUTED",element)
