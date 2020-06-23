@@ -3,8 +3,9 @@ import pandas as pd
 import numpy as np
 import copy
 import pickle
+import os
 import time
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from IPython.display import display
 from datetime import datetime
 import datetime as dt
@@ -33,6 +34,12 @@ def intersection(lst1, lst2):
     lst3 = [value for value in lst1 if value in lst2] 
     return lst3 
 #/subprograms
+run=2
+
+path = "/home/svdr/ibtest/"
+current_run = str(datetime.today().year) + format_days(str(datetime.today().month)) + format_days(str(datetime.today().day))+"_"+str(run)
+os.mkdir(path+"logs/"+current_run)
+
 
 ##ExchangeData
 #ExchangeData + Strategy Day
@@ -62,7 +69,7 @@ PreviousPortfolio = PreviousPortfolio[0:1]
 ## /Build CurrentPortfolio
 
 #TargetPortfolio
-target_position = pd.read_csv("/home/sevder/ibtest/Alphas/Alpha7/2020_6_22.csv",index_col='Date')
+target_position = pd.read_csv("/home/svdr/ibtest/Alphas/Alpha7/2020_6_23.csv",index_col='Date')
 target_position.index = pd.to_datetime(target_position.index)
 target_position = target_position[target_position.index==target_position.index[-1]]
 target_position = target_position.round(decimals=0)
@@ -74,9 +81,9 @@ target_position = target_position.fillna(0).astype(np.int64)
 CurrentPortfolio.index = target_position.index
 PreviousPortfolio.index = target_position.index
 
-CurrentPortfolio.to_csv("/home/sevder/ibtest/current_run/CurrentPortfolio.csv")
-PreviousPortfolio.to_csv("/home/sevder/ibtest/current_run/PreviousPortfolio.csv")
-target_position.to_csv("/home/sevder/ibtest/current_run/TargetPosition.csv")
+CurrentPortfolio.to_csv(path+"logs/"+current_run+"/"+"CurrentPortfolio.csv")
+PreviousPortfolio.to_csv(path+"logs/"+current_run+"/"+"PreviousPortfolio.csv")
+target_position.to_csv(path+"logs/"+current_run+"/"+"TargetPosition.csv")
 #/Outputs
 
 
@@ -84,7 +91,7 @@ target_position.to_csv("/home/sevder/ibtest/current_run/TargetPosition.csv")
 inexistent_positions = set(target_position.columns) - set(CurrentPortfolio.columns)
 inexistent_positions = pd.DataFrame(inexistent_positions)
 inexistent_positions.columns = {"symbol"}
-inexistent_positions.to_csv("/home/sevder/ibtest/current_run/inexistent_positions.csv")
+inexistent_positions.to_csv(path+"logs/"+current_run+"/"+"inexistent_positions.csv")
 #/ExtraPositions
 
 #in target, but not in Current.
@@ -92,7 +99,7 @@ for element in inexistent_positions["symbol"]:
     CurrentPortfolio[element]=0
 
 #currentPortfolio with added inexistent items.
-CurrentPortfolio.to_csv("/home/sevder/ibtest/current_run/new_CurrentPortfolio.csv")
+CurrentPortfolio.to_csv(path+"logs/"+current_run+"/"+"new_CurrentPortfolio.csv")
 #to be closed:
 #set(CurrentPortfolio.columns)-set(target_position.columns)
 
@@ -144,8 +151,9 @@ for column in orders.columns:
         excluded_log = excluded_log.append(excluded_line,ignore_index=True)
 
         
-already_traded_log.to_csv("/home/sevder/ibtest/current_run/no_trade_needed.csv")
-execution_log.to_csv("/home/sevder/ibtest/current_run/execution_log.csv")
-excluded_log.to_csv("/home/sevder/ibtest/current_run/excluded_log.csv")
-error_log.to_csv("/home/sevder/ibtest/current_run/error_log.csv")
+already_traded_log.to_csv(path+"logs/"+current_run+"/"+"no_trade_needed.csv")
+#already_traded_log.to_csv("/home/svdr/ibtest/current_run/{}_no_trade_needed.csv").format(pd.datetime.today().strftime('%y%m%d'))
+execution_log.to_csv(path+"logs/"+current_run+"/"+"execution_log.csv")
+excluded_log.to_csv(path+"logs/"+current_run+"/"+"excluded_log.csv")
+error_log.to_csv(path+"logs/"+current_run+"/"+"error_log.csv")
         
